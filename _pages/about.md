@@ -31,7 +31,7 @@ My research interest includes graph machine learning and large language models. 
 - [Fake News Detection with Contrastive Heterogeneous Graph Representation Learning](https://drive.google.com/file/d/1J3f8MlB5Rn0CgdzFnj1OT06z04iruozh/view?usp=sharing) **Zhikai Chen**, Li Pan 2021
 
 ## 📝 Published
-- - [Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?](https://arxiv.org/abs/2306.01323) Haitao Mao, **Zhikai Chen**, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang; NeurIPS 2023
+- [Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?](https://arxiv.org/abs/2306.01323) Haitao Mao, **Zhikai Chen**, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang; NeurIPS 2023
 - [Leveraging Diversity-Aware Context Attention Networks for Fake News Detection on Social Platforms](https://ieeexplore.ieee.org/abstract/document/9892488/) **Zhikai Chen**, Peng Wu, Li Pan 2022 [Code](https://github.com/CurryTang/fake_news_detection)
 
 ## 📝 Patents
