@@ -29,7 +29,7 @@ My research interest includes graph machine learning and large language models. 
 ## 📝 Published
 - [Label-free Node Classification on Graphs with Large Language Models (LLMS)](https://arxiv.org/abs/2310.04668), **Zhikai Chen**, Haitao Mao, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang [Code](https://github.com/CurryTang/LLMGNN); ICLR 2024(poster)
 - Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs
-[preprint version](https://arxiv.org/abs/2307.03393v3) [journal version](https://arxiv.org/abs/2307.03393), **Zhikai Chen**, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang 2023 [Code](https://github.com/CurryTang/Graph-LLM); SIGKDD Explorations
+[preprint version](https://arxiv.org/abs/2307.03393v3) [journal version](https://arxiv.org/abs/2307.03393), **Zhikai Chen**, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang 2023 [Code](https://github.com/CurryTang/Graph-LLM); SIGKDD Explorations and NeurIPS GLFrontiers 2023
 - [Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?](https://arxiv.org/abs/2306.01323) Haitao Mao, **Zhikai Chen**, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang; NeurIPS 2023(poster)
 - [Leveraging Diversity-Aware Context Attention Networks for Fake News Detection on Social Platforms](https://ieeexplore.ieee.org/abstract/document/9892488/) **Zhikai Chen**, Peng Wu, Li Pan 2022 [Code](https://github.com/CurryTang/fake_news_detection)
 
