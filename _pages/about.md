@@ -21,6 +21,8 @@ Hello everyone, my name is Zhikai Chen. Currently, I am a first-year Ph.D. stude
 
 My research interest includes graph machine learning and large language models. Specifically, my current research is mainly about the development of **graph foundation model**. 
 
+:bangbang: :bangbang: We are hosting a workshop on graph foundation models at WWW 2024 https://www.www24gfm.com/ and look forward to your submission!  
+
 # 📝 Publications 
 
 ## 📝 Preprints
@@ -31,29 +33,15 @@ My research interest includes graph machine learning and large language models. 
 - Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs
 [preprint version](https://arxiv.org/abs/2307.03393v3) [journal version](https://arxiv.org/abs/2307.03393), **Zhikai Chen**, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang 2023 [Code](https://github.com/CurryTang/Graph-LLM); SIGKDD Explorations and NeurIPS GLFrontiers 2023
 - [Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?](https://arxiv.org/abs/2306.01323) Haitao Mao, **Zhikai Chen**, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang; NeurIPS 2023(poster)
-- [Leveraging Diversity-Aware Context Attention Networks for Fake News Detection on Social Platforms](https://ieeexplore.ieee.org/abstract/document/9892488/) **Zhikai Chen**, Peng Wu, Li Pan 2022 [Code](https://github.com/CurryTang/fake_news_detection)
+- [Leveraging Diversity-Aware Context Attention Networks for Fake News Detection on Social Platforms](https://ieeexplore.ieee.org/abstract/document/9892488/) **Zhikai Chen**, Peng Wu, Li Pan; IJCNN 2022 [Code](https://github.com/CurryTang/fake_news_detection)
 
 ## 📝 Patents
 - A Fake News Identification System Based on Heterogeneous Graph Contrastive Learning. CN114020928A,2022.
 
+## 📝 Organizations
+- Web Conference Workshop 2024: Graph Foundation Models Haitao Mao, Jianan Zhao, Xiaoxin He, **Zhikai Chen**, Qian Huang, Zhaocheng Zhu, Jian Tang, Michael Bronstein, Xavier Bresson, Bryan Hooi, Haiyang Zhang, Xianfeng Tang, Chen Luo, Jiliang Tang
+
   
-<div style="display:none">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%">;</div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-</div>
-
 # 🎖 Honors and Awards
 - *2021.05* WAIC insurance multi-modal QA. 5th place/600+ teams
 
@@ -67,3 +55,8 @@ My research interest includes graph machine learning and large language models. 
 # 💻 Internships
 - *2023.05 - 2023.09*, Baidu, Beijing, China
 - *2021.01 - 2021.05*, HK Vision, Shanghai, China
+
+# :school: Services
+Reviewers for TKDE, TKDD, ACL, KDD (ADS track)
+
+Student organizers of WWW2024 **graph foundation model** workshop
