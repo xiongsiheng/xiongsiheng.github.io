@@ -21,11 +21,13 @@ Hello everyone, my name is Zhikai Chen. Currently, I am a first-year Ph.D. stude
 
 My research interest includes graph machine learning and large language models. Specifically, my current research is mainly about the development of **graph foundation model**. 
 
-:bangbang: :bangbang: We are hosting a workshop on graph foundation models at WWW 2024 https://www.www24gfm.com/ and look forward to your submission!  
+💻 We are hosting a workshop on graph foundation models at WWW 2024 https://www.www24gfm.com/ and look forward to your submission!  
 
 # 📝 Publications 
 
 ## 📝 Preprints
+- [Graph Foundation Models](https://arxiv.org/abs/2402.02216) Haitao Mao\*, **Zhikai Chen\***, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Michael Galkin, Jiliang Tang 2024
+- [Neural Scaling Laws on Graphs](https://arxiv.org/abs/2402.02054) Jingzhe Liu, Haitao Mao, **Zhikai Chen**, Tong Zhao, Neil Shah, Jiliang Tang 2024
 - [Fake News Detection with Contrastive Heterogeneous Graph Representation Learning](https://drive.google.com/file/d/1J3f8MlB5Rn0CgdzFnj1OT06z04iruozh/view?usp=sharing) **Zhikai Chen**, Li Pan 2021
 
 ## 📝 Published
@@ -56,7 +58,7 @@ My research interest includes graph machine learning and large language models. 
 - *2023.05 - 2023.09*, Baidu, Beijing, China
 - *2021.01 - 2021.05*, HK Vision, Shanghai, China
 
-# :school: Services
+# 💻 Services
 Reviewers for TKDE, TKDD, ACL, KDD (ADS track)
 
 Student organizers of WWW2024 **graph foundation model** workshop
