@@ -28,6 +28,7 @@ My research interest includes graph machine learning and large language models. 
 ## 📝 Preprints
 - [Graph Foundation Models](https://arxiv.org/abs/2402.02216) Haitao Mao\*, **Zhikai Chen\***, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Michael Galkin, Jiliang Tang 2024 [[Paper lists](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-)]
 - [Neural Scaling Laws on Graphs](https://arxiv.org/abs/2402.02054) Jingzhe Liu, Haitao Mao, **Zhikai Chen**, Tong Zhao, Neil Shah, Jiliang Tang 2024
+- [Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6hUny38AAAAJ&citation_for_view=6hUny38AAAAJ:kNdYIx-mwKoC) Juanhui Li, Haoyu Han, **Zhikai Chen**, Harry Shomer, Wei Jin, Amin Javari, Jiliang Tang 2024
 - [Fake News Detection with Contrastive Heterogeneous Graph Representation Learning](https://drive.google.com/file/d/1J3f8MlB5Rn0CgdzFnj1OT06z04iruozh/view?usp=sharing) **Zhikai Chen**, Li Pan 2021
 
 ## 📝 Published
