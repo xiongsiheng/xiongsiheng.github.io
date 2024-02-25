@@ -53,7 +53,10 @@ My research interest includes graph machine learning and large language models. 
 - *2020.09 - 2023.01*, Shanghai Jiao Tong University, Cyberspace Security, Master Degree.
 - *2016.09 - 2020.08*, Shanghai Jiao Tong University, Joint Institute, ECE, Bachelor Degree. 
 
+# 📖 Talks
 
+- *2024.02* From LLM4Graph to principled graph foundation models [Video](https://www.bilibili.com/video/BV1rt421b7S1) [Slides](https://drive.google.com/file/d/1iqb4ZB5DO4g9oNx2LdQjS_mcnGMJkaYs/view?usp=sharing)   **LOGS Seminar**
+- *2023.08* Exploring the potential of LLMs [Slides](https://docs.google.com/presentation/d/1nGN_BuzJq0RPw6yi7QT4oPh8eE_z6fIc) **Shandong University, BUPT**
 
 # 💻 Internships
 - *2023.05 - 2023.09*, Baidu, Beijing, China
