@@ -33,7 +33,7 @@ Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li 2024
 - [Fake News Detection with Contrastive Heterogeneous Graph Representation Learning](https://drive.google.com/file/d/1J3f8MlB5Rn0CgdzFnj1OT06z04iruozh/view?usp=sharing) **Zhikai Chen**, Li Pan 2021
 
 ## 📝 Published
-- [Graph Foundation Models](https://arxiv.org/abs/2402.02216) Haitao Mao\*, **Zhikai Chen\***, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Michael Galkin, Jiliang Tang 2024 [[Paper lists](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-)]; ICML 2024
+- [Graph Foundation Models](https://arxiv.org/abs/2402.02216) Haitao Mao\*, **Zhikai Chen\***, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Michael Galkin, Jiliang Tang 2024 [[Paper lists](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-)]; ICML 2024 (Spotlight)
 - [Label-free Node Classification on Graphs with Large Language Models (LLMS)](https://arxiv.org/abs/2310.04668), **Zhikai Chen**, Haitao Mao, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang [Code](https://github.com/CurryTang/LLMGNN); ICLR 2024(poster)
 - Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs
 [preprint version](https://arxiv.org/abs/2307.03393v3) [journal version](https://arxiv.org/abs/2307.03393), **Zhikai Chen**, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang 2023 [Code](https://github.com/CurryTang/Graph-LLM); SIGKDD Explorations and NeurIPS GLFrontiers 2023
