@@ -26,6 +26,7 @@ My research interest includes graph machine learning and large language models. 
 # 📝 Publications 
 
 ## 📝 Preprints
+- [A Pure Transformer Pretraining Framework on Text-attributed Graphs](https://arxiv.org/abs/2406.13873) Yu Song, Haitao Mao, Jiachen Xiao, Jingzhe Liu, **Zhikai Chen**, Wei Jin, Carl Yang, Jiliang Tang, Hui Liu
 - [Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights](https://arxiv.org/abs/2406.10727) **Zhikai Chen**, Haitao Mao, Jingzhe Liu, Yu Song, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang [Code](https://github.com/CurryTang/TSGFM)
 - [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/pdf/2404.14928) Wenqi Fan, Shijie Wang, Jiani Huang, **Zhikai Chen**, Yu Song, Wenzhuo Tang,
 Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li 2024
