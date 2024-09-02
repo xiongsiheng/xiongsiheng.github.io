@@ -46,7 +46,7 @@ My research interest includes knowledge graph reasoning and large language model
 - *2015.09*, China National Scholarship (Top 1%)
 
 # 📖 Educations
-- *2021.09 - Now*, Georgia Institute of Technology, Machine Learning, Ph.D.
+- *2021.09 - Present*, Georgia Institute of Technology, Machine Learning, Ph.D.
 - *2017.09 - 2021.03*, Shanghai Jiao Tong University, ECE, Master Degree.
 - *2013.09 - 2017.06*, Xi'an Jiaotong University, ECE, Bachelor Degree. 
 
