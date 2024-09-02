@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Siheng Xiong"
-description              : "A Phd Student from Michigan State Univerisity "
-repository               : "CurryTang/currytang.github.io"
+description              : "A Phd Student from Georgia Institute of Technology"
+repository               : "xiongsiheng/xiongsiheng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhikai Chen"
+  name             : "Siheng Xiong"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "A Phd Student"
-  location         : "East Lansing, Michigan"
+  location         : "Atlanta, Georgia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=6hUny38AAAAJ"
-  email            : "chenzh85@msu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=PbNzCQoAAAAJ"
+  email            : "sxiong45@gatech.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "CurryTang"
+  github           : "xiongsiheng"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : Siheng XIONG # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "drshadyk98"
+  twitter          :
   vine             :
   weibo            :
   xing             :
