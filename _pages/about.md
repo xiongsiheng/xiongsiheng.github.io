@@ -21,7 +21,7 @@ Hello everyone, my name is Siheng Xiong. Currently, I am a fourth year Ph.D. stu
 
 My research interest includes knowledge graph reasoning and large language models. Specifically, my current research is mainly about **Large Language Models Towards Reasoning**. 
 
-# 📝 Publications 
+# 📝 Publication
 
 ## 📝 Preprints
 - [Can LLMs Reason in the Wild with Programs?](https://arxiv.org/abs/2406.13764) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri 2024 [[Repo]](https://github.com/gblackout/Reason-in-the-Wild)
@@ -45,11 +45,11 @@ My research interest includes knowledge graph reasoning and large language model
 - *2016.09*, China UHV Scholarship (Top 1%)
 - *2015.09*, China National Scholarship (Top 1%)
 
-# 📖 Educations
+# 📖 Education
 - *2021.09 - Present*, Georgia Institute of Technology, Machine Learning, Ph.D.
 - *2017.09 - 2021.03*, Shanghai Jiao Tong University, ECE, Master Degree.
 - *2013.09 - 2017.06*, Xi'an Jiaotong University, ECE, Bachelor Degree. 
 
-# 💻 Internships
+# 💻 Internship
 - *2023.09 - 2024.04*, Software Engineer PhD Intern, Cisco, San Jose, California, United States (Remote)
 - *2020.05 - 2021.01*, Research Student Assistant, Rutgers University, New Brunswick, New Jersey, United States (Remote), Mentor: [Prof. Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)
