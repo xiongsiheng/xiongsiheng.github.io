@@ -17,56 +17,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello everyone, my name is Zhikai Chen. Currently, I am a ~~first~~second-year Ph.D. student from Michigan State University, supervised by [Professor Jiliang Tang](https://www.cse.msu.edu/~tangjili/). Previously, I received both of my bachelor and master degree from Shanghai Jiao Tong University. 
+Hello everyone, my name is Siheng Xiong. Currently, I am a fourth year Ph.D. student from Georgia Institute of Technology, supervised by [Prof. Faramarz Fekri
+](https://fekri.ece.gatech.edu/). Previously, I received my bachelor and master degree from Xi'an Jiao Tong University and Shanghai Jiao Tong University, respectively. 
 
-My research interest includes graph machine learning and large language models. Specifically, my current research is mainly about the development of **graph foundation model**. 
-
-💻 We are hosting a workshop on graph foundation models at WWW 2024 https://www.www24gfm.com/ and look forward to your submission!  
+My research interest includes knowledge graph reasoning and large language models. Specifically, my current research is mainly about the development of **large language models towards reasoning**. 
 
 # 📝 Publications 
 
 ## 📝 Preprints
-- [A Pure Transformer Pretraining Framework on Text-attributed Graphs](https://arxiv.org/abs/2406.13873) Yu Song, Haitao Mao, Jiachen Xiao, Jingzhe Liu, **Zhikai Chen**, Wei Jin, Carl Yang, Jiliang Tang, Hui Liu
-- [Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights](https://arxiv.org/abs/2406.10727) **Zhikai Chen**, Haitao Mao, Jingzhe Liu, Yu Song, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang [Code](https://github.com/CurryTang/TSGFM)
-- [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/pdf/2404.14928) Wenqi Fan, Shijie Wang, Jiani Huang, **Zhikai Chen**, Yu Song, Wenzhuo Tang,
-Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li 2024
-- [Neural Scaling Laws on Graphs](https://arxiv.org/abs/2402.02054) Jingzhe Liu, Haitao Mao, **Zhikai Chen**, Tong Zhao, Neil Shah, Jiliang Tang 2024
-- [Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6hUny38AAAAJ&citation_for_view=6hUny38AAAAJ:kNdYIx-mwKoC) Juanhui Li, Haoyu Han, **Zhikai Chen**, Harry Shomer, Wei Jin, Amin Javari, Jiliang Tang 2024
+- [Can LLMs Reason in the Wild with Programs?](https://arxiv.org/abs/2406.13764) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri 2024 [[Repo]](https://github.com/gblackout/Reason-in-the-Wild)
+- [Lossy Semantic Communication of State of the World](https://drive.google.com/file/d/1p-uTaS-Ju3KugJ00_-VuBg-mLl0SnsRe/view?usp=sharing) Ahmet Faruk Saz, **Siheng Xiong**, Faramarz Fekri 2024 
+- [Model-Theoretic Logic for Semantic Information and Communication](https://drive.google.com/file/d/1GycWhBTLlAn4JssdFXIEXv6trThR2BIs/view?usp=sharing) Ahmet Faruk Saz, **Siheng Xiong**, Faramarz Fekri 2024
+- [Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Yashas Malur Saidutta, Faramarz Fekri 2024 [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
 
 ## 📝 Published
-- [Graph Foundation Models](https://arxiv.org/abs/2402.02216) Haitao Mao\*, **Zhikai Chen\***, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Michael Galkin, Jiliang Tang 2024 [[Paper lists](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-)]; ICML 2024 (Spotlight)
-- [Label-free Node Classification on Graphs with Large Language Models (LLMS)](https://arxiv.org/abs/2310.04668), **Zhikai Chen**, Haitao Mao, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang [Code](https://github.com/CurryTang/LLMGNN); ICLR 2024(poster)
-- Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs
-[preprint version](https://arxiv.org/abs/2307.03393v3) [journal version](https://arxiv.org/abs/2307.03393), **Zhikai Chen**, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang 2023 [Code](https://github.com/CurryTang/Graph-LLM); SIGKDD Explorations and NeurIPS GLFrontiers 2023
-- [Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?](https://arxiv.org/abs/2306.01323) Haitao Mao, **Zhikai Chen**, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang; NeurIPS 2023(poster)
-- [Leveraging Diversity-Aware Context Attention Networks for Fake News Detection on Social Platforms](https://ieeexplore.ieee.org/abstract/document/9892488/) **Zhikai Chen**, Peng Wu, Li Pan; IJCNN 2022 [Code](https://github.com/CurryTang/fake_news_detection)
+- [Temporal Inductive Logic Reasoning over Hypergraphs](https://scholar.google.com/scholar?oi=bibs&cluster=2305718584835897141&btnI=1&hl=en) Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri; IJCAI 2024 [[Repo]](https://github.com/gblackout/TILR)
+- [Large Language Models Can Learn Temporal Reasoning](https://arxiv.org/abs/2401.06853) **Siheng Xiong**, Ali Payani, Ramana Kompella, Faramarz Fekri; ACL 2024 (main) [[Repo]](https://github.com/xiongsiheng/TG-LLM)
+- [Harnessing the power of large language models for natural language to first-order logic translation](https://arxiv.org/abs/2305.15541) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri; ACL 2024 (main) [[Repo]](https://github.com/gblackout/LogicLLaMA)
+- [TEILP: Time prediction over knowledge graphs via logical reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/29544) **Siheng Xiong**, Yuan Yang, Ali Payani, James C Kerce, Faramarz Fekri; AAAI 2024 (oral) [[Repo]](https://github.com/xiongsiheng/TEILP)
+- [TILP: Differentiable learning of temporal logical rules on knowledge graphs](https://openreview.net/forum?id=_X12NmQKvX) **Siheng Xiong**, Yuan Yang, Faramarz Fekri, James Clayton Kerce; ICLR 2023 [[Repo]](https://github.com/xiongsiheng/TILP)
+- [RSSPN: robust semi-supervised prototypical network for fault root cause classification in power distribution systems](https://ieeexplore.ieee.org/abstract/document/9606537) Tianqing Zheng, Yadong Liu, Yingjie Yan, **Siheng Xiong**, Tao Lin, Yanxia Chen, Zhiyong Wang, Xiuchen Jiang; IEEE Transactions on Power Delivery, 2021
+- [Object recognition for power equipment via human‐level concept learning](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.12088) **Siheng Xiong**, Yadong Liu, Yingjie Yan, Ling Pei, Peng Xu, Xiaofei Fu, Xiuchen Jiang; IET Generation, Transmission & Distribution, 2021 [[Repo]](https://github.com/xiongsiheng/Power-equipment-image-dataset)
+- [Power equipment recognition method based on mask R-CNN and bayesian context network](https://ieeexplore.ieee.org/abstract/document/9281755) **Siheng Xiong**, Yadong Liu, Rui Xu, Ying Du, Zihan Cong, Yingjie Yan, Xiuchen Jiang; IEEE Power & Energy Society General Meeting (PESGM) 2020
+- [Incipient fault identification in power distribution systems via human-level concept learning](https://ieeexplore.ieee.org/abstract/document/9094224) **Siheng Xiong**, Yadong Liu, Jian Fang, Jindun Dai, Lingen Luo, Xiuchen Jiang; IEEE Transactions on Smart Grid 2020 [[Repo]](https://github.com/xiongsiheng/Incipient-fault-waveform-dataset)
 
-## 📝 Patents
-- A Fake News Identification System Based on Heterogeneous Graph Contrastive Learning. CN114020928A,2022.
 
-## 📝 Organizations
-- Web Conference Workshop 2024: Graph Foundation Models Haitao Mao, Jianan Zhao, Xiaoxin He, **Zhikai Chen**, Qian Huang, Zhaocheng Zhu, Jian Tang, Michael Bronstein, Xavier Bresson, Bryan Hooi, Haiyang Zhang, Xianfeng Tang, Chen Luo, Jiliang Tang
-
-  
 # 🎖 Honors and Awards
-- *2021.05* WAIC insurance multi-modal QA. 5th place/600+ teams
+- *2016.09*, China UHV Scholarship (Top 1%)
+- *2015.09*, China National Scholarship (Top 1%)
 
 # 📖 Educations
-- *2023.01 - Now*, Michigan State University, Computer Science, Ph.D.
-- *2020.09 - 2023.01*, Shanghai Jiao Tong University, Cyberspace Security, Master Degree.
-- *2016.09 - 2020.08*, Shanghai Jiao Tong University, Joint Institute, ECE, Bachelor Degree. 
-
-# 📖 Talks
-
-- *2024.02* From LLM4Graph to principled graph foundation models [Video](https://www.bilibili.com/video/BV1rt421b7S1) [Slides](https://drive.google.com/file/d/1iqb4ZB5DO4g9oNx2LdQjS_mcnGMJkaYs/view?usp=sharing)   **LOGS Seminar**
-- *2023.08* Exploring the potential of LLMs [Slides](https://docs.google.com/presentation/d/1nGN_BuzJq0RPw6yi7QT4oPh8eE_z6fIc) **Shandong University, BUPT**
+- *2021.09 - Now*, Georgia Institute of Technology, Machine Learning, Ph.D.
+- *2017.09 - 2021.03*, Shanghai Jiao Tong University, ECE, Master Degree.
+- *2013.09 - 2017.06*, Xi'an Jiao Tong University, ECE, Bachelor Degree. 
 
 # 💻 Internships
-- *2024.06 - 2024.09*, Amazon AWS, Santa Clara, Applied Scientist Intern, Mentor: James Zhang
-- *2023.05 - 2023.09*, Baidu, Beijing, China, Mentor: Xiaochi Wei
-- *2021.01 - 2021.05*, HK Vision, Shanghai, China 
-
-# 💻 Services
-Reviewers for TKDE, TKDD, ACL, KDD (ADS track), JMLR 
-
-Student organizers of WWW2024 **graph foundation model** workshop
+- *2023.09 - 2024.04*, Software Engineer PhD Intern, Cisco, San Jose, California, United States (Remote)
+- *2020.05 - 2021.01*, Research Student Assistant, Rutgers University, New Brunswick, New Jersey, United States (Remote), Mentor: [Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)
