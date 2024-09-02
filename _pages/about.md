@@ -27,7 +27,7 @@ My research interest includes knowledge graph reasoning and large language model
 - [Can LLMs Reason in the Wild with Programs?](https://arxiv.org/abs/2406.13764) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri 2024 [[Repo]](https://github.com/gblackout/Reason-in-the-Wild)
 - [Lossy Semantic Communication of State of the World](https://drive.google.com/file/d/1p-uTaS-Ju3KugJ00_-VuBg-mLl0SnsRe/view?usp=sharing) Ahmet Faruk Saz, **Siheng Xiong**, Faramarz Fekri 2024 
 - [Model-Theoretic Logic for Semantic Information and Communication](https://drive.google.com/file/d/1GycWhBTLlAn4JssdFXIEXv6trThR2BIs/view?usp=sharing) Ahmet Faruk Saz, **Siheng Xiong**, Faramarz Fekri 2024
-- [Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Yashas Malur Saidutta, Faramarz Fekri 2024 [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
+- [Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Yashas Malur Saidutta, Faramarz Fekri 2023 [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
 
 ## 📝 Published
 - [Temporal Inductive Logic Reasoning over Hypergraphs](https://scholar.google.com/scholar?oi=bibs&cluster=2305718584835897141&btnI=1&hl=en) Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri; IJCAI 2024 [[Repo]](https://github.com/gblackout/TILR)
@@ -52,4 +52,4 @@ My research interest includes knowledge graph reasoning and large language model
 
 # 💻 Internships
 - *2023.09 - 2024.04*, Software Engineer PhD Intern, Cisco, San Jose, California, United States (Remote)
-- *2020.05 - 2021.01*, Research Student Assistant, Rutgers University, New Brunswick, New Jersey, United States (Remote), Mentor: [Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)
+- *2020.05 - 2021.01*, Research Student Assistant, Rutgers University, New Brunswick, New Jersey, United States (Remote), Mentor: [Prof. Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)
