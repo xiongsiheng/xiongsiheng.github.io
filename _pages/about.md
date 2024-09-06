@@ -55,5 +55,5 @@ My research interest includes knowledge graph reasoning and large language model
 - *2023.09 - 2024.04*, Software Engineer PhD Intern, Cisco, San Jose, California, United States (Remote)
 - *2020.05 - 2021.01*, Research Student Assistant, Rutgers University, New Brunswick, New Jersey, United States (Remote), Mentor: [Prof. Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)
 
-# 📄 Service
+# 📄 Services
 Reviewers for NIPS, ICLR, ICML, AAAI, EMNLP, JAI, AJCST
