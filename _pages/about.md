@@ -24,6 +24,8 @@ My research interest includes knowledge graph reasoning and large language model
 # 📝 Publication
 
 ## 📝 Preprints
+- [SWAP: Deliberate reasoning as structure-aware planning with accurate world model]() **Siheng Xiong**, et al. (in progress)
+- [Large Language Models for Causal Reasoning: Surveying Diverse Improvement Techniques]() **Siheng Xiong**, et al. (in progress)
 - [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri 2024 [[Repo]](https://github.com/gblackout/LM-OS)
 - [Can LLMs Reason in the Wild with Programs?](https://arxiv.org/abs/2406.13764) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri 2024 [[Repo]](https://github.com/gblackout/Reason-in-the-Wild)
 - [Lossy Semantic Communication of State of the World](https://drive.google.com/file/d/1p-uTaS-Ju3KugJ00_-VuBg-mLl0SnsRe/view?usp=sharing) Ahmet Faruk Saz, **Siheng Xiong**, Faramarz Fekri 2024 
