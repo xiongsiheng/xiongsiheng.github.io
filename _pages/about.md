@@ -44,17 +44,17 @@ My research interest includes knowledge graph reasoning and large language model
 
 
 # 🎖 Honors and Awards
-- *2016.09*, China UHV Scholarship (Top 1%)
-- *2015.09*, China National Scholarship (Top 1%)
+- China National Scholarship (Top 1%)
+- China UHV Scholarship (Top 1%)
 
 # 📖 Education
-- *2021.09 - Present*, Georgia Institute of Technology, Machine Learning, Ph.D.
-- *2017.09 - 2021.03*, Shanghai Jiao Tong University, ECE, Master Degree.
-- *2013.09 - 2017.06*, Xi'an Jiaotong University, ECE, Bachelor Degree. 
+- Georgia Institute of Technology, Machine Learning, Ph.D.
+- Shanghai Jiao Tong University, ECE, Master Degree.
+- Xi'an Jiaotong University, ECE, Bachelor Degree. 
 
 # 💻 Internship
-- *2023.09 - 2024.04*, Software Engineer PhD Intern, Cisco, San Jose, California, United States (Remote)
-- *2020.05 - 2021.01*, Research Student Assistant, Rutgers University, New Brunswick, New Jersey, United States (Remote), Mentor: [Prof. Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)
+- *2023.09 - 2024.04*, Software Engineer PhD Intern, Cisco, San Jose, California
+- *2020.05 - 2021.01*, Research Student Assistant, Rutgers University (Mentor: [Prof. Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)), New Brunswick, New Jersey
 
 # 📄 Services
 - Reviewers for NIPS, ICLR, ICML, AAAI, EMNLP, FAI, AJCST
