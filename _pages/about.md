@@ -25,7 +25,7 @@ My research interest includes knowledge graph reasoning and large language model
 
 ## 📝 Preprints
 - [Large Language Models for Causal Reasoning: Surveying Diverse Improvement Techniques]() **Siheng Xiong**, et al. (in progress)
-- [Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model](https://drive.google.com/file/d/1HE-_A4AqA7dm_-GHBBe_ME4A1M4PvBAM/view?usp=sharing) **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri 2024 [[Repo]](https://github.com/xiongsiheng/SWAP).
+- [Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model](https://arxiv.org/abs/2410.03136) **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri 2024 [[Repo]](https://github.com/xiongsiheng/SWAP).
 - [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri 2024 [[Repo]](https://github.com/gblackout/LM-OS)
 - [Lossy Semantic Communication for the Logical Deduction of the State of the World](https://arxiv.org/abs/2410.01676) Ahmet Faruk Saz, **Siheng Xiong**, Faramarz Fekri 2024 [[Repo]](https://github.com/xiongsiheng/SemCom)
 - [Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Yashas Malur Saidutta, Faramarz Fekri 2023 [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
