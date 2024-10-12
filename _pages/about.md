@@ -24,6 +24,7 @@ My research interest includes knowledge graph reasoning and large language model
 # 📝 Publication
 
 ## 📝 Preprints
+- [Sparse Mixture-of-Agents Improves Multi-agent Large Language Models]() **Siheng Xiong**, et al. (in progress)
 - [Improving Causal Reasoning in Large Language Models: A Survey]() **Siheng Xiong**, et al. (in progress)
 - [Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model](https://arxiv.org/abs/2410.03136) **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri 2024 [[Repo]](https://github.com/xiongsiheng/SWAP).
 - [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri 2024 [[Repo]](https://github.com/gblackout/LM-OS)
