@@ -24,8 +24,8 @@ My research interest includes knowledge graph reasoning and large language model
 # 📝 Publication
 
 ## 📝 Preprints
-- [Sparse Mixture-of-Agents Improves Multi-agent Large Language Models]() Dawei Li, Zhen Tan, Peijia Qian, Yifan Li, Kumar Satvik Chaudhary, **Siheng Xiong**, Lijie Hu, Jiayi Shen, Yu Kong, Huan Liu 2024
-- [Improving Causal Reasoning in Large Language Models: A Survey]() Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Longxuan Yu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan 2024
+- [Sparse Mixture-of-Agents Improves Multi-agent Large Language Models](https://drive.google.com/file/d/1I86EXKEF7vKUl7xfRQMy_oDmVL-lbSAb/view?usp=sharing) Dawei Li, Zhen Tan, Peijia Qian, Yifan Li, Kumar Satvik Chaudhary, **Siheng Xiong**, Lijie Hu, Jiayi Shen, Yu Kong, Huan Liu 2024
+- [Improving Causal Reasoning in Large Language Models: A Survey](https://drive.google.com/file/d/1mGSwW6ai2jirxVIzc8cE2RY51G0JJBAx/view?usp=sharing) Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Longxuan Yu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan 2024
 - [Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model](https://arxiv.org/abs/2410.03136) **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri 2024 [[Repo]](https://github.com/xiongsiheng/SWAP).
 - [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri 2024 [[Repo]](https://github.com/gblackout/LM-OS)
 - [Lossy Semantic Communication for the Logical Deduction of the State of the World](https://arxiv.org/abs/2410.01676) Ahmet Faruk Saz, **Siheng Xiong**, Faramarz Fekri 2024 [[Repo]](https://github.com/xiongsiheng/SemCom)
