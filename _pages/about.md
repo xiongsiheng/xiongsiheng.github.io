@@ -32,7 +32,7 @@ My research interest includes knowledge graph reasoning and large language model
 - [Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Yashas Malur Saidutta, Faramarz Fekri 2023 [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
 
 ## 📝 Published
-- [Can LLMs Reason in the Wild with Programs?](https://arxiv.org/abs/2406.13764) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri; EMNLP 2024 (findings) [[Repo]](https://github.com/gblackout/Reason-in-the-Wild)
+- [Can LLMs Reason in the Wild with Programs?](https://aclanthology.org/2024.findings-emnlp.573) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri; EMNLP 2024 (findings) [[Repo]](https://github.com/gblackout/Reason-in-the-Wild)
 - [Temporal Inductive Logic Reasoning over Hypergraphs](https://www.ijcai.org/proceedings/2024/0400.pdf) Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri; IJCAI 2024 [[Repo]](https://github.com/gblackout/TILR)
 - [Large Language Models Can Learn Temporal Reasoning](https://aclanthology.org/2024.acl-long.563/) **Siheng Xiong**, Ali Payani, Ramana Kompella, Faramarz Fekri; ACL 2024 (main) [[Repo]](https://github.com/xiongsiheng/TG-LLM)
 - [Harnessing the power of large language models for natural language to first-order logic translation](https://aclanthology.org/2024.acl-long.375/) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri; ACL 2024 (main) [[Repo]](https://github.com/gblackout/LogicLLaMA)
