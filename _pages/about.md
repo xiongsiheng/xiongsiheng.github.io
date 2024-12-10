@@ -39,7 +39,7 @@ My research interest includes knowledge graph reasoning and large language model
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/Casual-LM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/Casual-LM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving Causal Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2410.16676) \\
