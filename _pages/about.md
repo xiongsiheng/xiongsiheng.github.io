@@ -39,6 +39,20 @@ My research interest includes knowledge graph reasoning and large language model
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/Casual-LM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improving Causal Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2410.16676) \\
+Longxuan Yu\*, Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Qingzhen Liu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan
+
+[**Project**](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)
+
+- We provide a comprehensive review of research aimed at enhancing LLMs for causal reasoning. We evaluate the performance of LLMs on various causal reasoning tasks, providing key findings and in-depth analysis.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/Tiger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
