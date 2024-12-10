@@ -39,7 +39,7 @@ My research interest includes knowledge graph reasoning and large language model
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/Tiger.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/Tiger.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Can LLMs Reason in the Wild with Programs?](https://aclanthology.org/2024.findings-emnlp.573) \\
