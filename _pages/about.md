@@ -28,7 +28,7 @@ My research interest includes knowledge graph reasoning and large language model
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/SWAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SWAP: Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model](https://arxiv.org/abs/2410.03136) \\
+[Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model](https://arxiv.org/abs/2410.03136) \\
 **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/SWAP)
@@ -48,6 +48,35 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
 [**Project**](https://github.com/gblackout/Reason-in-the-Wild)
 
 - Tiger is a TactIc-Guided ReasonER designed to tackle reasoning-in-the-wild tasks by generating and refining programs. It learns from previous trajectories to iteratively improve program generation, enabling more effective reasoning (like OpenAI o1 model).
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/TG-LLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Large Language Models Can Learn Temporal Reasoning](https://aclanthology.org/2024.acl-long.563/) \\
+**Siheng Xiong**, Ali Payani, Ramana Kompella, Faramarz Fekri
+
+[**Project**](https://github.com/xiongsiheng/TG-LLM)
+
+- TG-LLM performs temporal reasoning in two steps: 1) Text-to-Temporal Graph translation: generate (relevant) temporal graph given the context and keyword (extracted from questions); 2) Temporal Graph Reasoning: perform deliberate Chain-of-Thought reasoning over the temporal graph.
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/LogicLLaMA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Harnessing the power of large language models for natural language to first-order logic translation](https://aclanthology.org/2024.acl-long.375/) \\
+Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
+
+[**Project**](https://github.com/gblackout/LogicLLaMA)
+
+- LogicLLaMA can be used standalone or to correct previously generated rules by other models for the NL-FOL translation task.
 
 </div>
 </div>
