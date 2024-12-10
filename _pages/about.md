@@ -21,6 +21,32 @@ Hello everyone, my name is Siheng Xiong. Currently, I am a fourth year Ph.D. stu
 
 My research interest includes knowledge graph reasoning and large language models. Specifically, my current research is mainly about **Large Language Models Towards Reasoning**. 
 
+# 🚀 Projects
+
+
+
+## Temporal knowledge graph reasoning
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/RNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TILP: Differentiable learning of temporal logical rules on knowledge graphs](https://openreview.net/pdf?id=_X12NmQKvX) \\
+**Siheng Xiong**, Yuan Yang, Faramarz Fekri, James Clayton Kerce
+
+[**Project**](https://github.com/xiongsiheng/TILP)
+
+- TILP is the first differentiable framework for temporal logical rules learning. We introduce constrained random walk mechanism and temporal operators with temporal features modeling, e.g., recurrence, temporal order, interval between pair of relations, and duration.
+
+</div>
+</div>
+
+
+
+
+
+
+
 # 📝 Publication
 
 ## 📝 Preprints
