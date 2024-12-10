@@ -27,7 +27,6 @@ My research interest includes knowledge graph reasoning and large language model
 
 ## Temporal knowledge graph reasoning
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/TILP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
