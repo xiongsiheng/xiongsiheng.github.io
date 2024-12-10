@@ -83,6 +83,23 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
 
 
 
+## The Language Model OS
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LM-OS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) \\
+Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri
+
+[**Project**](https://github.com/gblackout/LM-OS)
+
+- We introduce compressor-retriever, a model-agnostic architecture designed for life-long context management. Our approach exclusively uses the base model's forward function to compress and retrieve context, ensuring end-to-end differentiability.
+
+</div>
+</div>
+
+
+
 ## Temporal Knowledge Graph Reasoning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/TILR.jpg' alt="sym" width="100%"></div></div>
