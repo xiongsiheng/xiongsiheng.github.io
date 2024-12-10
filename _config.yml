@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Siheng Xiong"
-  avatar           : "images/3.jpg"
+  avatar           : "images/avatar.jpg"
   bio              : "Ph.D. candidate in ML"
   location         : "Atlanta, Georgia"
   employer         :
