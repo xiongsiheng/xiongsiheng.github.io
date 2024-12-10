@@ -23,20 +23,38 @@ My research interest includes knowledge graph reasoning and large language model
 
 # 🚀 Projects
 
-## Temporal knowledge graph reasoning
+## Large Language Models Towards Reasoning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/TILP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/SWAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TILP: Differentiable learning of temporal logical rules on knowledge graphs](https://openreview.net/pdf?id=_X12NmQKvX) \\
-**Siheng Xiong**, Yuan Yang, Faramarz Fekri, James Clayton Kerce
+[SWAP: Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model](https://arxiv.org/abs/2410.03136) \\
+**Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri
 
-[**Project**](https://github.com/xiongsiheng/TILP)
+[**Project**](https://github.com/xiongsiheng/SWAP)
 
-- TILP is the first differentiable framework for temporal logical rules learning. We introduce constrained random walk mechanism and temporal operators with temporal features modeling, e.g., recurrence, temporal order, interval between pair of relations, and duration.
+- SWAP is a structure-aware planning framework for multi-step reasoning with LLMs. At each step, given the current state, represented as a graph, and an action, the accurate world model predicts the next state as an updated graph. The policy model is guided by this graph to propose next action.
 
 </div>
 </div>
+
+
+
+## Temporal Knowledge Graph Reasoning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/TILR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TILR: Temporal Inductive Logic Reasoning over Hypergraphs](https://www.ijcai.org/proceedings/2024/0400.pdf) \\
+Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
+
+[**Project**](https://github.com/gblackout/TILR)
+
+- TILR is a reasoning framework that detects inductive patterns in temporal data via neural-logic methodology. The framework aims to assist the training of modern ML models by inducing patterns for accurate grounding with fewer data.
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/TEILP.png' alt="sym" width="100%"></div></div>
@@ -53,18 +71,20 @@ My research interest includes knowledge graph reasoning and large language model
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/TILR.jpg' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/TILP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Temporal Inductive Logic Reasoning over Hypergraphs](https://www.ijcai.org/proceedings/2024/0400.pdf) \\
-Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
+[TILP: Differentiable learning of temporal logical rules on knowledge graphs](https://openreview.net/pdf?id=_X12NmQKvX) \\
+**Siheng Xiong**, Yuan Yang, Faramarz Fekri, James Clayton Kerce
 
-[**Project**](https://github.com/gblackout/TILR)
+[**Project**](https://github.com/xiongsiheng/TILP)
 
-- TILR is a reasoning framework that detects inductive patterns in temporal data via neural-logic methodology. The framework aims to assist the training of modern ML models by inducing patterns for accurate grounding with fewer data.
+- TILP is the first differentiable framework for temporal logical rules learning. We introduce constrained random walk mechanism and temporal operators with temporal features modeling, e.g., recurrence, temporal order, interval between pair of relations, and duration.
 
 </div>
 </div>
+
 
 
 
