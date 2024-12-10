@@ -21,7 +21,7 @@ Hello everyone, my name is Siheng Xiong. Currently, I am a fourth year Ph.D. stu
 
 My research interest includes knowledge graph reasoning and large language models. Specifically, my current research is mainly about **Large Language Models Towards Reasoning**. 
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
 ## Large Language Models Towards Reasoning
 
@@ -34,6 +34,20 @@ My research interest includes knowledge graph reasoning and large language model
 [**Project**](https://github.com/xiongsiheng/SWAP)
 
 - SWAP is a structure-aware planning framework for multi-step reasoning with LLMs. At each step, given the current state, represented as a graph, and an action, the accurate world model predicts the next state as an updated graph. The policy model is guided by this graph to propose next action.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Can LLMs Reason in the Wild with Programs?](https://aclanthology.org/2024.findings-emnlp.573) \\
+Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
+
+[**Project**](https://github.com/gblackout/Reason-in-the-Wild)
+
+- Tiger is a TactIc-Guided ReasonER designed to tackle reasoning-in-the-wild tasks by generating and refining programs. It learns from previous trajectories to iteratively improve program generation, enabling more effective reasoning (like OpenAI o1 model).
 
 </div>
 </div>
