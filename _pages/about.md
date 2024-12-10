@@ -39,7 +39,7 @@ My research interest includes knowledge graph reasoning and large language model
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/TEILP_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/TEILP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TEILP: Time prediction over knowledge graphs via logical reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/29544) \\
@@ -80,7 +80,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 - [Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Yashas Malur Saidutta, Faramarz Fekri 2023 [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
 
 ## 📝 Published
-- ``EMNLP 2024`` [Can LLMs Reason in the Wild with Programs?](https://aclanthology.org/2024.findings-emnlp.573) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/Reason-in-the-Wild)
+- <div class="badge">EMNLP 2024</div> [Can LLMs Reason in the Wild with Programs?](https://aclanthology.org/2024.findings-emnlp.573) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/Reason-in-the-Wild)
 - ``IJCAI 2024`` [Temporal Inductive Logic Reasoning over Hypergraphs](https://www.ijcai.org/proceedings/2024/0400.pdf) Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri [[Repo]](https://github.com/gblackout/TILR)
 - ``ACL 2024 (main)`` [Large Language Models Can Learn Temporal Reasoning](https://aclanthology.org/2024.acl-long.563/) **Siheng Xiong**, Ali Payani, Ramana Kompella, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/TG-LLM)
 - ``ACL 2024 (main)`` [Harnessing the power of large language models for natural language to first-order logic translation](https://aclanthology.org/2024.acl-long.375/) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LogicLLaMA)
