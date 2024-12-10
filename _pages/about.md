@@ -42,7 +42,32 @@ My research interest includes knowledge graph reasoning and large language model
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/TEILP_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[TEILP: Time prediction over knowledge graphs via logical reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/29544) \\
+**Siheng Xiong**, Yuan Yang, Ali Payani, James C Kerce, Faramarz Fekri
+
+[**Project**](https://github.com/xiongsiheng/TEILP)
+
+- TEILP is a follow-up work of TILP. We convert TKGs into a temporal event knowledge graph (TEKG) which equips us to develop a differentiable random walk approach. We also introduce conditional probability density functions, associated with the logical rules involving the query interval, using which we arrive at the time prediction.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/TILR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Temporal Inductive Logic Reasoning over Hypergraphs](https://www.ijcai.org/proceedings/2024/0400.pdf) \\
+Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
+
+[**Project**](https://github.com/gblackout/TILR)
+
+- TILR is a reasoning framework that detects inductive patterns in temporal data via neural-logic methodology. The framework aims to assist the training of modern ML models by inducing patterns for accurate grounding with fewer data.
+
+</div>
+</div>
 
 
 
