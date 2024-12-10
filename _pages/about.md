@@ -189,6 +189,9 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 # 🎖 Honors and Awards
 - China National Scholarship (Top 1%)
 - China UHV Scholarship (Top 1%)
+- China National Mathematical Modeling Competition, Regional First Prize
+- Mathematical Contest in Modeling, Meritorious Winner
+- Kaggle Santander Value Prediction Challenge, Silver Medal (Top 3.4% Rank)
 
 # 📖 Education
 - Georgia Institute of Technology, Machine Learning, Ph.D.
