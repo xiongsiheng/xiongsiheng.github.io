@@ -167,7 +167,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 
 ## 📝 Preprints
 - ``Preprint 2024`` [DISCD: Distributed Lossy Semantic Communication for Logical Deduction of Hypothesis](https://drive.google.com/file/d/1Rur5UeNW7ETjFt5r4C0F66-FScQKG5tF/view?usp=drive_link) Ahmet Faruk Saz, **Siheng Xiong**, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/SemCom)
-- ``Preprint 2024``[Improving Causal Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2410.16676) Longxuan Yu\*, Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Qingzhen Liu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan [[Repo]](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)
+- ``Preprint 2024`` [Improving Causal Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2410.16676) Longxuan Yu\*, Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Qingzhen Liu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan [[Repo]](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)
 - ``Preprint 2024`` [Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model](https://arxiv.org/abs/2410.03136) **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/SWAP).
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 - ``Preprint 2024`` [Lossy Semantic Communication for the Logical Deduction of the State of the World](https://arxiv.org/abs/2410.01676) Ahmet Faruk Saz, **Siheng Xiong**, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/SemCom)
