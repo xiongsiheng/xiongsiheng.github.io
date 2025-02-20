@@ -28,12 +28,12 @@ My research interest includes knowledge graph reasoning and large language model
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/SWAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model](https://arxiv.org/abs/2410.03136) \\
+[Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model](https://arxiv.org/abs/2410.03136) \\
 **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/SWAP)
 
-- SWAP is a structure-aware planning framework for multi-step reasoning with LLMs. At each step, given the current state, represented as a graph, and an action, the accurate world model predicts the next state as an updated graph. The policy model is guided by this graph to propose next action.
+- SWAP is a structure-aware planning framework for multi-step reasoning with LMs. At each step, given the current state, represented as a graph, and an action, the enhanced world model predicts the next state as an updated graph. The policy model is guided by this graph to propose next action.
 
 </div>
 </div>
@@ -47,7 +47,7 @@ Longxuan Yu\*, Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Qingzhen Liu, Dawe
 
 [**Project**](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)
 
-- We provide a comprehensive review of research aimed at enhancing LLMs for causal reasoning. We evaluate the performance of LLMs on various causal reasoning tasks, providing key findings and in-depth analysis.
+- We provide a comprehensive review of research aimed at enhancing LMs for causal reasoning. We evaluate the performance of different LMs and methods on various causal reasoning tasks, providing key findings and in-depth analysis.
 
 </div>
 </div>
@@ -166,7 +166,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 # 📝 Selected Publications
 
 ## 📝 Preprints
-- ``Preprint 2024`` [Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model](https://arxiv.org/abs/2410.03136) **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/SWAP).
+- ``Preprint 2024`` [Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model](https://arxiv.org/abs/2410.03136) **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/SWAP).
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 - ``Preprint 2023`` [Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Yashas Malur Saidutta, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
 
