@@ -97,7 +97,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
 
 
 
-## The Language Model OS
+## Long Context Language Modelling
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LM-OS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
