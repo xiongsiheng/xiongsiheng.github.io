@@ -25,6 +25,21 @@ My research interest includes knowledge graph reasoning and large language model
 
 ## Large Language Models Towards Reasoning
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/SymPlanner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SymPlanner: Deliberate Planning in Language Models with Symbolic Representation]() \\
+**Siheng Xiong**, Jieyu Zhou, Zhangding Liu, Yusen Su
+
+[**Project**](https://github.com/xiongsiheng/SymPlanner)
+
+- SymPlanner a follow-up work of SWAP. We integrate symbolic world model for better state prediction. We use iterative correction to increase the diversity of action generation for prompting-based methods.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/SWAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,6 +52,7 @@ My research interest includes knowledge graph reasoning and large language model
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/Casual-LM.png' alt="sym" width="100%"></div></div>
