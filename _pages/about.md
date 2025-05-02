@@ -43,7 +43,7 @@ My research interest includes knowledge graph reasoning and large language model
 <div class='paper-box-text' markdown="1">
 
 [CausalEval: Towards Better Causal Reasoning in Language Models](https://arxiv.org/abs/2410.16676) \\
-Longxuan Yu\*, Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Qingzhen Liu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan
+Longxuan Yu\*, Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan
 
 [**Project**](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)
 
@@ -207,4 +207,4 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 - *2020.05 - 2021.01*, Research Student Assistant, Rutgers University (Mentor: [Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)), New Brunswick, New Jersey
 
 # 📄 Services
-- Reviewers for NIPS, ICLR, ICML, AAAI, ACL, EMNLP, NAACL, FAI, FCS, AJCST
+- Reviewers for NIPS, ICLR, ICML, AAAI, ACL, EMNLP, NAACL, FAI, FCS, AJCST, COMPJ
