@@ -29,7 +29,7 @@ My research interest includes knowledge graph reasoning and large language model
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/SymPlanner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SymPlanner: Deliberate Planning in Language Models with Symbolic Representation]() \\
+[SymPlanner: Deliberate Planning in Language Models with Symbolic Representation](https://arxiv.org/abs/2505.01479) \\
 **Siheng Xiong**, Jieyu Zhou, Zhangding Liu, Yusen Su
 
 [**Project**](https://github.com/xiongsiheng/SymPlanner)
@@ -182,7 +182,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 # 📝 Selected Publications
 
 ## 📝 Preprints
-- ``Preprint 2025`` [SymPlanner: Deliberate Planning in Language Models with Symbolic Representation]() **Siheng Xiong**, Jieyu Zhou, Zhangding Liu, Yusen Su [[Repo]](https://github.com/xiongsiheng/SymPlanner).
+- ``Preprint 2025`` [SymPlanner: Deliberate Planning in Language Models with Symbolic Representation](https://arxiv.org/abs/2505.01479) **Siheng Xiong**, Jieyu Zhou, Zhangding Liu, Yusen Su [[Repo]](https://github.com/xiongsiheng/SymPlanner).
 - ``Preprint 2024`` [Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model](https://arxiv.org/abs/2410.03136) **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/SWAP).
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 - ``Preprint 2023`` [Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Yashas Malur Saidutta, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
