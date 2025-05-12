@@ -219,7 +219,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 - Xi'an Jiaotong University, ECE, Bachelor Degree. 
 
 # 💻 Experience
-- *2025.05 - 2025.08*, Research Engineer Intern, Google, Sunnyvale, California
+- *2025.05 - 2025.08*, Applied Research Intern, Google, Sunnyvale, California
 - *2023.09 - 2024.04*, Research Intern, Cisco, San Jose, California
 - *2020.05 - 2021.01*, Research Student Assistant, Rutgers University (Mentor: [Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)), New Brunswick, New Jersey
 
