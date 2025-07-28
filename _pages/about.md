@@ -224,4 +224,5 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 - *2020.05 - 2021.01*, Research Student Assistant, Rutgers University (Mentor: [Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)), New Brunswick, New Jersey
 
 # 📄 Services
+- Program Committee for AAAI
 - Reviewers for NIPS, ICLR, ICML, AAAI, ACL, EMNLP, NAACL, FAI, FCS, AJCST, COMPJ
