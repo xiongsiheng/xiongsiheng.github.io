@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello everyone, my name is Siheng Xiong. Currently, I am a fourth year Ph.D. student from Georgia Institute of Technology, supervised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Previously, I received my bachelor and master degree from Xi'an Jiaotong University and Shanghai Jiao Tong University, respectively. 
+Hello everyone, my name is Siheng Xiong. Currently, I am a fifth year Ph.D. student from Georgia Institute of Technology, supervised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Previously, I received my bachelor and master degree from Xi'an Jiaotong University and Shanghai Jiao Tong University, respectively. 
 
 My research interest includes knowledge graph reasoning and large language models. Specifically, my current research is mainly about **Large Language Models Towards Reasoning**. 
 
@@ -29,8 +29,8 @@ My research interest includes knowledge graph reasoning and large language model
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/SymPlanner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SymPlanner: Deliberate Planning in Language Models with Symbolic Representation](https://arxiv.org/abs/2505.01479) \\
-**Siheng Xiong**, Jieyu Zhou, Zhangding Liu, Yusen Su
+[Deliberate Planning in Language Models with Symbolic Representation](https://arxiv.org/abs/2505.01479) \\
+**Siheng Xiong**, Zhangding Liu, Jieyu Zhou, Yusen Su
 
 [**Project**](https://github.com/xiongsiheng/SymPlanner)
 
@@ -115,6 +115,20 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
 
 ## Long Context Language Modelling
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/DHSA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Accelerating Long-Context On-Device LLMs with Dynamic Hierarchical Sparse Attention]() \\
+**Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho
+
+
+[**Project**]()
+
+- We introduce Dynamic Hierarchical Sparse Attention (DHSA), a plug-in module integrated into each Transformer layer that enables multi-head attention to skip unimportant token pairs. The key idea is to exploit chunk-level similarity to guide token-level sparsity prediction, enhanced with dynamic chunking and length-normalized chunk representations. DHSA attains the performance of dense attention while significantly reducing both latency and memory usage.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LM-OS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -182,7 +196,8 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 # 📝 Selected Publications
 
 ## 📝 Preprints
-- ``Preprint 2025`` [SymPlanner: Deliberate Planning in Language Models with Symbolic Representation](https://arxiv.org/abs/2505.01479) **Siheng Xiong**, Jieyu Zhou, Zhangding Liu, Yusen Su [[Repo]](https://github.com/xiongsiheng/SymPlanner).
+- ``Preprint 2025`` [Accelerating Long-Context On-Device LLMs with Dynamic Hierarchical Sparse Attention]() **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]]()
+- ``Preprint 2025`` [Deliberate Planning in Language Models with Symbolic Representation](https://arxiv.org/abs/2505.01479) **Siheng Xiong**, Zhangding Liu, Jieyu Zhou, Yusen Su [[Repo]](https://github.com/xiongsiheng/SymPlanner).
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 - ``Preprint 2023`` [Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Yashas Malur Saidutta, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
 
