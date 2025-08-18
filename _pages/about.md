@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello everyone, my name is Siheng Xiong. Currently, I am a fifth year Ph.D. student from Georgia Institute of Technology, supervised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Previously, I received my bachelor and master degree from Xi'an Jiaotong University and Shanghai Jiao Tong University, respectively. 
+Hello everyone, my name is Siheng Xiong. I am currently a fifth-year Ph.D. student in Machine Learning at the Georgia Institute of Technology, advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Prior to this, I earned my Bachelor's degree from Xi'an Jiaotong University and my Master's degree from Shanghai Jiao Tong University. 
 
-My research interest includes knowledge graph reasoning and large language models. Specifically, my current research is mainly about **Large Language Models Towards Reasoning**. 
+My research interests include reasoning and planning with large language models and knowledge graphs, as well as efficient long-context language modeling. More specifically, my current research focuses on **advancing the reasoning capabilities of large language models**.
 
 # 🚀 Featured Projects
 
