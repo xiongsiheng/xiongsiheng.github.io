@@ -103,7 +103,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/DHSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Accelerating Long-Context On-Device LLMs with Dynamic Hierarchical Sparse Attention]() \\
+[Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://drive.google.com/file/d/1NvWiu-CWmQ2aDFzQEIP47T5OdkKhYWKF/view?usp=sharing) \\
 **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho
 
 
