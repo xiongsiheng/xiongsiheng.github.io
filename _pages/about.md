@@ -181,7 +181,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 # 📝 Selected Publications
 
 ## 📝 Preprints
-- ``Preprint 2025`` [Accelerating Long-Context On-Device LLMs with Dynamic Hierarchical Sparse Attention]() **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]]()
+- ``Preprint 2025`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://drive.google.com/file/d/1NvWiu-CWmQ2aDFzQEIP47T5OdkKhYWKF/view?usp=sharing) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]]()
 - ``Preprint 2025`` [Deliberate Planning in Language Models with Symbolic Representation](https://arxiv.org/abs/2505.01479) **Siheng Xiong**, Zhangding Liu, Jieyu Zhou, Yusen Su [[Repo]](https://github.com/xiongsiheng/SymPlanner).
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 - ``Preprint 2023`` [Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Yashas Malur Saidutta, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
