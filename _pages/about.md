@@ -107,7 +107,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
 **Siheng Xiong**, Yae Jee Cho, Joe Zou, Faramarz Fekri
 
 
-[**Project**]()
+[**Project**](https://drive.google.com/drive/folders/1AVdQOfCqRPYNNBzcfiSw1r-lBpRKO9Uy?usp=sharing)
 
 - We introduce Dynamic Hierarchical Sparse Attention (DHSA), a plug-in module integrated into each Transformer layer that enables multi-head attention to skip unimportant token pairs. The key idea is to exploit chunk-level similarity to guide token-level sparsity prediction, enhanced with dynamic chunking and length-normalized chunk representations. DHSA attains the performance of dense attention while significantly reducing both latency and memory usage.
 
@@ -181,7 +181,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 # 📝 Selected Publications
 
 ## 📝 Preprints
-- ``Preprint 2025`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://drive.google.com/file/d/1vIqSa_Vx0KNbI606deAdsbSMyIhATXlj/view?usp=sharing) **Siheng Xiong**, Yae Jee Cho, Joe Zou, Faramarz Fekri [[Repo]]()
+- ``Preprint 2025`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://drive.google.com/file/d/1vIqSa_Vx0KNbI606deAdsbSMyIhATXlj/view?usp=sharing) **Siheng Xiong**, Yae Jee Cho, Joe Zou, Faramarz Fekri [[Repo]](https://drive.google.com/drive/folders/1AVdQOfCqRPYNNBzcfiSw1r-lBpRKO9Uy?usp=sharing)
 - ``Preprint 2025`` [Deliberate Planning in Language Models with Symbolic Representation](https://arxiv.org/abs/2505.01479) **Siheng Xiong**, Zhangding Liu, Jieyu Zhou, Yusen Su [[Repo]](https://github.com/xiongsiheng/SymPlanner).
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 - ``Preprint 2023`` [Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Yashas Malur Saidutta, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
