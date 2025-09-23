@@ -100,7 +100,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
 
 ## Long Context Language Modelling
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/DHSA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/DHSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://drive.google.com/file/d/1vIqSa_Vx0KNbI606deAdsbSMyIhATXlj/view?usp=sharing) \\
@@ -181,11 +181,11 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 # 📝 Selected Publications
 
 ## 📝 Preprints
-- ``Preprint 2025`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://drive.google.com/file/d/1vIqSa_Vx0KNbI606deAdsbSMyIhATXlj/view?usp=sharing) **Siheng Xiong**, Yae Jee Cho, Joe Zou, Faramarz Fekri [[Repo]](https://drive.google.com/drive/folders/1AVdQOfCqRPYNNBzcfiSw1r-lBpRKO9Uy?usp=sharing)
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 - ``Preprint 2024`` [On The Theory of Semantic Information and Communication for Logical Inference](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
 
 ## 📝 Published
+- ``NeurIPS 2025 @ ER`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://drive.google.com/file/d/1vIqSa_Vx0KNbI606deAdsbSMyIhATXlj/view?usp=sharing) **Siheng Xiong**, Yae Jee Cho, Joe Zou, Faramarz Fekri [[Repo]](https://drive.google.com/drive/folders/1AVdQOfCqRPYNNBzcfiSw1r-lBpRKO9Uy?usp=sharing)
 - ``ACS 2025`` [Deliberate Planning in Language Models with Symbolic Representation](https://arxiv.org/abs/2505.01479) **Siheng Xiong**, Zhangding Liu, Jieyu Zhou, Yusen Su [[Repo]](https://github.com/xiongsiheng/SymPlanner)
 - ``ACL 2025 (main)`` [Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model](https://arxiv.org/abs/2410.03136) **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/SWAP)
 - ``NAACL 2025 (main)`` [CausalEval: Towards Better Causal Reasoning in Language Models](https://arxiv.org/abs/2410.16676) Longxuan Yu\*, Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Qingzhen Liu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan [[Repo]](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)
