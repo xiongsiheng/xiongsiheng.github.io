@@ -17,13 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello everyone, my name is Siheng Xiong. I am currently a fifth-year Ph.D. student in Machine Learning at the Georgia Institute of Technology, advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Prior to this, I earned my Bachelor's degree from Xi'an Jiaotong University and my Master's degree from Shanghai Jiao Tong University. 
+Hello everyone, my name is Siheng Xiong. I am currently a final-year Ph.D. student in Machine Learning at the Georgia Institute of Technology, advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Prior to this, I earned my Bachelor's degree from Xi'an Jiaotong University and my Master's degree from Shanghai Jiao Tong University. 
 
 My research interests include reasoning and planning with large language models and knowledge graphs, as well as efficient long-context language modeling. More specifically, my current research focuses on **advancing the reasoning capabilities of large language models**.
 
 # 🚀 Featured Projects
 
 ## Large Language Models Towards Reasoning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/DeepControl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DeepControl: Enhancing Research Agents via Process-Level Verification]() \\
+**Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, Mika Okamoto, Clayton Kerce, Faramarz Fekri
+
+[**Project**]()
+
+- We propose DeepControl, a framework designed to verify both the reasoning and tool-usage processes of deep research agents. DeepControl acts as a plug-in module that enhances the reliability and effectiveness of research-oriented language agents by providing feedback and inspecting their intermediate workflows. To enable adaptive and self-improving control behavior, we train DeepControl through reinforcement fine-tuning, allowing it to learn when and how to intervene during complex reasoning and tool-invocation sequences.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/MPPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
