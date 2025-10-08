@@ -25,6 +25,19 @@ My research interests include reasoning and planning with large language models 
 
 ## Large Language Models Towards Reasoning
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/MPPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Reflection]() \\
+**Siheng Xiong**, Ali Payani, Faramarz Fekri
+
+[**Project**]()
+
+- We propose MPPR (Multi-Path Planning with Reflection), a framework designed to help large reasoning models overcome Chain-of-Thought derailment by enabling reflective multi-path planning. To train MPPR effectively, we introduce online Step-DPO, a process-level preference optimization scheme that leverages Twisted Sequential Monte Carlo to provide scalable, stepwise supervision. This approach enables efficient learning, stabilizes long-trajectory reasoning, and enhances overall reasoning accuracy.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/SWAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -33,7 +46,7 @@ My research interests include reasoning and planning with large language models 
 
 [**Project**](https://github.com/xiongsiheng/SWAP)
 
-- SWAP is a structure-aware planning framework for multi-step reasoning with LMs. At each step, given the current state, represented as a graph, and an action, the enhanced world model predicts the next state as an updated graph. The policy model is guided by this graph to propose next action.
+- SWAP (Structure-Aware Planning) is a structure-aware planning framework for multi-step reasoning with LMs. At each step, given the current state, represented as a graph, and an action, the enhanced world model predicts the next state as an updated graph. The policy model is guided by this graph to propose next action.
 
 </div>
 </div>
