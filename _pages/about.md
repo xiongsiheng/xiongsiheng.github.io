@@ -25,7 +25,7 @@ My research interests include reasoning and planning with large language models 
 
 ## Large Language Models Towards Reasoning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/MPPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/MPPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation]() \\
