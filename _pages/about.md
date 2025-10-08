@@ -28,12 +28,12 @@ My research interests include reasoning and planning with large language models 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/MPPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Reflection]() \\
+[Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation]() \\
 **Siheng Xiong**, Ali Payani, Faramarz Fekri
 
 [**Project**]()
 
-- We propose MPPR (Multi-Path Planning with Reflection), a framework designed to help large reasoning models overcome Chain-of-Thought derailment by enabling reflective multi-path planning. To train MPPR effectively, we introduce online Step-DPO, a process-level preference optimization scheme that leverages Twisted Sequential Monte Carlo to provide scalable, stepwise supervision. This approach enables efficient learning, stabilizes long-trajectory reasoning, and enhances overall reasoning accuracy.
+- We propose MPPA (Multi-Path Planning with Aggregation), a framework designed to help large reasoning models overcome Chain-of-Thought derailment by enabling multi-path planning aggregation. To train MPPA effectively, we introduce online Step-DPO, a process-level preference optimization scheme that leverages Twisted Sequential Monte Carlo to provide scalable, stepwise supervision. This approach enables efficient learning, stabilizes long-trajectory reasoning, and enhances overall reasoning accuracy.
 
 </div>
 </div>
