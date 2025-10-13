@@ -41,10 +41,10 @@ My research interests include reasoning and planning with large language models 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/MPPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation]() \\
+[Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation](https://drive.google.com/file/d/1Vph1Vu3C6xYz_wWK_7CiRdoiI2PwoOFZ/view?usp=sharing) \\
 **Siheng Xiong**, Ali Payani, Faramarz Fekri
 
-[**Project**]()
+[**Project**](https://github.com/xiongsiheng/MPPA)
 
 - We propose MPPA (Multi-Path Planning with Aggregation), a framework designed to help large reasoning models overcome Chain-of-Thought derailment by enabling multi-path planning aggregation. To train MPPA effectively, we introduce online Step-DPO, a process-level preference optimization scheme that leverages Twisted Sequential Monte Carlo to provide scalable, stepwise supervision. This approach enables efficient learning, stabilizes long-trajectory reasoning, and enhances overall reasoning accuracy.
 
@@ -208,7 +208,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 
 ## 📝 Preprints
 - ``Preprint 2025`` [DeepControl: Enhancing Research Agents via Process-Level Verification]() **Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, Mika Okamoto, Clayton Kerce, Faramarz Fekri  [[Repo]]()
-- ``Preprint 2025`` [Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation]() **Siheng Xiong**, Ali Payani, Faramarz Fekri,  [[Repo]]()
+- ``Preprint 2025`` [Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation](https://drive.google.com/file/d/1Vph1Vu3C6xYz_wWK_7CiRdoiI2PwoOFZ/view?usp=sharing) **Siheng Xiong**, Ali Payani, Faramarz Fekri,  [[Repo]](https://github.com/xiongsiheng/MPPA)
 - ``Preprint 2025`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://drive.google.com/file/d/12DVC0Yzw7jUaYLZl8K-fhpLdgMnMWDpz/view?usp=sharing) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://drive.google.com/drive/folders/1AVdQOfCqRPYNNBzcfiSw1r-lBpRKO9Uy?usp=sharing)
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/abs/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 - ``Preprint 2024`` [On The Theory of Semantic Information and Communication for Logical Inference](https://arxiv.org/abs/2401.17556) Ahmet Faruk Saz, **Siheng Xiong**, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/Inductive-Semantic-Communication-Dataset)
