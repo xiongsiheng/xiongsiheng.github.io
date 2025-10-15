@@ -259,4 +259,3 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 - Program Committee for *AAAI*
 - Conference Reviewer for *NIPS, ICLR, ICML, AAAI, ACL, EMNLP, NAACL, EACL*
 - Journal Reviewer for *FAI, FCS, AJCST, COMPJ*
-- Conference Volunteer for *ACS*
