@@ -31,7 +31,7 @@ My research interests include reasoning and planning with large language models 
 [DeepControl: Enhancing Research Agents via Process-Level Verification]() \\
 **Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, Mika Okamoto, Clayton Kerce, Faramarz Fekri
 
-[**Project**](https://github.com/xiongsiheng/DeepVerify)
+[**Project**](https://drive.google.com/drive/folders/1AJbT6Umvn1-gYby3tOPHhOgfomzl-mbk?usp=sharing)
 
 - We propose DeepControl, a framework designed to verify both the reasoning and tool-usage processes of deep research agents. DeepControl acts as a plug-in module that enhances the reliability and effectiveness of research-oriented language agents by providing feedback and inspecting their intermediate workflows. To enable adaptive and self-improving control behavior, we train DeepControl through reinforcement fine-tuning, allowing it to learn when and how to intervene during complex reasoning and tool-invocation sequences.
 
