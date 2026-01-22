@@ -241,10 +241,6 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 - ``ACL 2024 (main)`` [Harnessing the power of large language models for natural language to first-order logic translation](https://aclanthology.org/2024.acl-long.375.pdf) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LogicLLaMA)
 - ``AAAI 2024`` <span style="color:red">(Oral)</span> [TEILP: Time prediction over knowledge graphs via logical reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/29544) **Siheng Xiong**, Yuan Yang, Ali Payani, James C Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/TEILP)
 - ``ICLR 2023`` [TILP: Differentiable learning of temporal logical rules on knowledge graphs](https://openreview.net/pdf?id=_X12NmQKvX) **Siheng Xiong**, Yuan Yang, Faramarz Fekri, James Clayton Kerce [[Repo]](https://github.com/xiongsiheng/TILP)
-- ``IEEE Transactions on Power Delivery 2021`` [RSSPN: robust semi-supervised prototypical network for fault root cause classification in power distribution systems](https://ieeexplore.ieee.org/abstract/document/9606537) Tianqing Zheng, Yadong Liu, Yingjie Yan, **Siheng Xiong**, Tao Lin, Yanxia Chen, Zhiyong Wang, Xiuchen Jiang
-- ``IET Generation, Transmission & Distribution 2021`` [Object recognition for power equipment via human‐level concept learning](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.12088) **Siheng Xiong**, Yadong Liu, Yingjie Yan, Ling Pei, Peng Xu, Xiaofei Fu, Xiuchen Jiang [[Repo]](https://github.com/xiongsiheng/Power-equipment-image-dataset)
-- ``PESGM 2020`` [Power equipment recognition method based on mask R-CNN and bayesian context network](https://ieeexplore.ieee.org/abstract/document/9281755) **Siheng Xiong**, Yadong Liu, Rui Xu, Ying Du, Zihan Cong, Yingjie Yan, Xiuchen Jiang
-- ``IEEE Transactions on Smart Grid 2020`` [Incipient fault identification in power distribution systems via human-level concept learning](https://ieeexplore.ieee.org/abstract/document/9094224) **Siheng Xiong**, Yadong Liu, Jian Fang, Jindun Dai, Lingen Luo, Xiuchen Jiang [[Repo]](https://github.com/xiongsiheng/Incipient-fault-waveform-dataset)
 
 
 # 🎖 Honors and Awards
@@ -272,4 +268,4 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 # 📄 Services
 - Program Committee for *AAAI*
 - Conference Reviewer for *NIPS, ICLR, ICML, AAAI, ACL, EMNLP, NAACL, EACL*
-- Journal Reviewer for *ACM TIST, FAI, FCS, AJCST, COMPJ*
+- Journal Reviewer for *ACM TIST*
