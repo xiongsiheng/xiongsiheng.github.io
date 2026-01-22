@@ -246,22 +246,18 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 # 🎖 Honors and Awards
 - China National Scholarship (Top 1% Rank)
 - China UHV Scholarship (Top 1% Rank)
-- China National Mathematical Modeling Competition, Regional First Prize
-- China National College Students' Mathematics Competition, Second Prize
-- Mathematical Contest in Modeling, Meritorious Winner
-- Xi'an Jiaotong University Outstanding Student, Outstanding Undergraduate Graduate
 - Kaggle Santander Value Prediction Challenge, Silver Medal (Top 3.4% Rank)
 
 
 # 📖 Education
-- Georgia Institute of Technology, Machine Learning, Ph.D.
-- Shanghai Jiao Tong University, ECE, Master Degree.
-- Xi'an Jiaotong University, ECE, Bachelor Degree. 
+- Georgia Institute of Technology, Ph.D. in Machine Learning
+- Shanghai Jiao Tong University, M.S. in Electrical and Computer Engineering
+- Xi'an Jiaotong University, B.S. in Electrical and Computer Engineering
 
 
 # 💻 Experience
 - *2025.05 - 2025.08*, Applied Research Intern, Google, Sunnyvale, California
-- *2023.09 - 2024.04*, Research Intern, Cisco, San Jose, California
+- *2023.09 - 2024.04*, Research Intern, Cisco Research, San Jose, California
 - *2020.05 - 2021.01*, Research Student Assistant, Rutgers University (Mentor: [Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)), New Brunswick, New Jersey
 
 
