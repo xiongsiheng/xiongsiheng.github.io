@@ -59,7 +59,7 @@ Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/MPPA)
 
-- We propose MPPA (Multi-Path Planning with Aggregation), a framework designed to help large reasoning models overcome Chain-of-Thought derailment by enabling multi-path planning aggregation. To train MPPA effectively, we introduce online Step-DPO, a process-level preference optimization scheme that leverages Twisted Sequential Monte Carlo to provide scalable, stepwise supervision. This approach enables efficient learning, stabilizes long-trajectory reasoning, and enhances overall reasoning accuracy.
+- We propose MPPA (Multi-Path Planning with Aggregation), a framework designed to help large reasoning models overcome long-horizon planning failure by enabling multi-path planning aggregation.
 
 </div>
 </div>
@@ -72,7 +72,7 @@ Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri
 
 [**Project**]()
 
-- We propose Multi-Level Reasoning (MLR), a planner–executor framework trained with iterative Step-DPO that enables more stable and robust long-horizon reasoning.
+- We propose MLR (Multi-Level Reasoning), a planner–executor framework trained with iterative Step-DPO that enables more stable and robust long-horizon reasoning.
 
 </div>
 </div>
