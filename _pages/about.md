@@ -19,7 +19,7 @@ redirect_from:
 
 Hello everyone, my name is Siheng Xiong. I am currently a final-year Ph.D. student in Machine Learning at the Georgia Institute of Technology, advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Prior to this, I earned my Bachelor's degree from Xi'an Jiaotong University and my Master's degree from Shanghai Jiao Tong University. 
 
-My research focuses on enabling deliberate reasoning and planning in large language models, with an emphasis on **world models, structure-aware representations, and long-context reasoning**, with additional attention to efficiency and scalability.
+My research focuses on enabling deliberate reasoning and planning in large language models, with an emphasis on **model-based reasoning, long-context modelling, and structure-aware representations**, and with additional attention to efficiency and scalability.
 
 # 🚀 Featured Projects
 
@@ -60,6 +60,19 @@ Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri
 [**Project**](https://github.com/xiongsiheng/MPPA)
 
 - We propose MPPA (Multi-Path Planning with Aggregation), a framework designed to help large reasoning models overcome Chain-of-Thought derailment by enabling multi-path planning aggregation. To train MPPA effectively, we introduce online Step-DPO, a process-level preference optimization scheme that leverages Twisted Sequential Monte Carlo to provide scalable, stepwise supervision. This approach enables efficient learning, stabilizes long-trajectory reasoning, and enhances overall reasoning accuracy.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/MLR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://openreview.net/pdf?id=PlkzZhqBCd) \\
+**Siheng Xiong**, Ali Payani, Faramarz Fekri
+
+[**Project**]()
+
+- We propose Multi-Level Reasoning (MLR), a planner–executor framework trained with iterative Step-DPO that enables more stable and robust long-horizon reasoning.
 
 </div>
 </div>
