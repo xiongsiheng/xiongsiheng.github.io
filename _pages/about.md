@@ -51,18 +51,6 @@ Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/MPPA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation](https://arxiv.org/pdf/2510.11620) \\
-**Siheng Xiong**, Ali Payani, Faramarz Fekri
-
-[**Project**](https://github.com/xiongsiheng/MPPA)
-
-- We propose MPPA (Multi-Path Planning with Aggregation), a framework designed to help large reasoning models overcome long-horizon planning failure by enabling multi-path planning aggregation.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/MLR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,6 +64,7 @@ Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/SWAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
