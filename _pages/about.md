@@ -58,7 +58,7 @@ Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri
 [Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://drive.google.com/file/d/1mg6N90vcH991lW86EL_Dzl2ecCcmQvNN/view?usp=sharing) \\
 **Siheng Xiong**, Ali Payani, Faramarz Fekri
 
-[**Project**]()
+[**Project**](https://github.com/xiongsiheng/MLR)
 
 - We propose MLR (Multi-Level Reasoning), a planner–executor framework trained with iterative Step-DPO that enables more stable and robust long-horizon reasoning.
 
@@ -227,7 +227,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/pdf/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 
 ## 📝 Published
-- ``ICLR 2026`` [Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://drive.google.com/file/d/1mg6N90vcH991lW86EL_Dzl2ecCcmQvNN/view?usp=sharing) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]]()
+- ``ICLR 2026`` [Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://drive.google.com/file/d/1mg6N90vcH991lW86EL_Dzl2ecCcmQvNN/view?usp=sharing) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MLR)
 - ``NeurIPS 2025 @ ER`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://arxiv.org/pdf/2510.24606) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
 - ``ACS 2025`` [Deliberate Planning in Language Models with Symbolic Representation](https://arxiv.org/pdf/2505.01479) **Siheng Xiong**, Zhangding Liu, Jieyu Zhou, Yusen Su [[Repo]](https://github.com/xiongsiheng/SymPlanner)
 - ``ACL 2025 (main)`` [Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model](https://arxiv.org/pdf/2410.03136) **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/SWAP)
