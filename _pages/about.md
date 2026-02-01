@@ -25,28 +25,29 @@ My research focuses on enabling deliberate reasoning and planning in large langu
 
 ## Large Language Models for Reasoning and Planning
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/DeepControl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Scaling Search-Augmented Reasoning Agents via Adaptive Information Control](https://drive.google.com/file/d/1hO2VjR_NfHRdWpFeZFd_uVnd4K8krZwh/view?usp=sharing) \\
+**Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, James C. Kerce, Faramarz Fekri
+
+[**Project**](https://github.com/xiongsiheng/DeepControl)
+
+- We present DeepControl, an adaptive information-control framework that formalizes information utility, the marginal value of retrieved evidence conditioned on the agent’s current reasoning state. By regulating when to continue retrieval and how much information to expand through utility-guided continuation and granularity control, our method enables agents to learn efficient, state-aware information acquisition strategies and consistently improves reasoning performance across diverse benchmarks.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/PathWise.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs]() \\
+[Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs](https://arxiv.org/pdf/2601.20539) \\
 Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri
 
 [**Project**]()
 
 - We introduce PathWise, a multi-agent framework that formulates automated heuristic design as a sequential planning problem. PathWise represents the search process using an entailment graph as a stateful memory and combines a policy agent, a world model, and critic agents to guide heuristic generation through planned evolutionary actions. The framework enables structured reasoning, reuse of prior derivations, and controlled self-evolution of LLM-generated heuristics.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/DeepControl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Scaling Search-Augmented Reasoning Agents via Adaptive Information Control]() \\
-**Siheng Xiong**, Oguzhan Gungordu, Faramarz Fekri
-
-[**Project**](https://drive.google.com/drive/folders/1AJbT6Umvn1-gYby3tOPHhOgfomzl-mbk?usp=sharing)
-
-- We propose DeepControl, a framework designed to verify both the reasoning and tool-usage processes of deep research agents. DeepControl acts as a plug-in module that enhances the reliability and effectiveness of research-oriented language agents by providing feedback and inspecting their intermediate workflows. To enable adaptive and self-improving control behavior, we train DeepControl through reinforcement fine-tuning, allowing it to learn when and how to intervene during complex reasoning and tool-invocation sequences.
 
 </div>
 </div>
@@ -220,8 +221,8 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 # 📝 Selected Publications
 
 ## 📝 Preprints
-- ``Preprint 2026`` [Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs]() Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri [[Repo]]()
-- ``Preprint 2025`` [DeepControl: Enhancing Research Agents via Process-Level Verification]() **Siheng Xiong**, Oguzhan Gungordu, Faramarz Fekri [[Repo]](https://drive.google.com/drive/folders/1AJbT6Umvn1-gYby3tOPHhOgfomzl-mbk?usp=sharing)
+- ``Preprint 2026`` [Scaling Search-Augmented Reasoning Agents via Adaptive Information Control](https://drive.google.com/file/d/1hO2VjR_NfHRdWpFeZFd_uVnd4K8krZwh/view?usp=sharing) **Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
+- ``Preprint 2026`` [Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs](https://arxiv.org/pdf/2601.20539) Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri [[Repo]]()
 - ``Preprint 2025`` [Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation](https://arxiv.org/pdf/2510.11620) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MPPA)
 - ``Preprint 2025`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://drive.google.com/file/d/12DVC0Yzw7jUaYLZl8K-fhpLdgMnMWDpz/view?usp=sharing) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://drive.google.com/drive/folders/1AVdQOfCqRPYNNBzcfiSw1r-lBpRKO9Uy?usp=sharing)
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/pdf/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
