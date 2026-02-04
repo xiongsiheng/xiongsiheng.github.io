@@ -118,7 +118,7 @@ Tiger is a TactIc-Guided ReasonER designed to tackle reasoning-in-the-wild tasks
 
 [**Project**](https://github.com/xiongsiheng/TG-LLM)
 
-TG-LLM performs temporal reasoning in two steps: 1) Text-to-Temporal Graph translation: generate (relevant) temporal graph given the context and keyword (extracted from questions); 2) Temporal Graph Reasoning: perform deliberate Chain-of-Thought reasoning over the temporal graph.
+TG-LLM performs temporal reasoning in two steps: 1) Text-to-Temporal Graph translation: generate temporal graph given the context and keyword; 2) Temporal Graph Reasoning: perform deliberate CoT reasoning over the temporal graph.
 
 
 </div>
