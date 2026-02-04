@@ -104,7 +104,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
 
 [**Project**](https://github.com/gblackout/Reason-in-the-Wild)
 
-Tiger is a TactIc-Guided ReasonER designed to tackle reasoning-in-the-wild tasks by generating and refining programs. It learns from previous trajectories to iteratively improve program generation, enabling more effective reasoning (like OpenAI o1 model).
+Tiger is a TactIc-Guided ReasonER designed to tackle reasoning-in-the-wild tasks by generating and refining programs. It learns from previous trajectories to iteratively improve program generation, enabling more effective reasoning (like OpenAI o1).
 
 </div>
 </div>
@@ -151,7 +151,7 @@ LogicLLaMA can be used standalone or to correct previously generated rules by ot
 
 [**Project**](https://github.com/xiongsiheng/DHSA)
 
-We introduce Dynamic Hierarchical Sparse Attention (DHSA), a plug-in module integrated into each Transformer layer that enables multi-head attention to skip unimportant token pairs. The key idea is to exploit chunk-level similarity to guide token-level sparsity prediction, enhanced with dynamic chunking and length-normalized chunk representations. DHSA attains the performance of dense attention while significantly reducing both latency and memory usage.
+We introduce Dynamic Hierarchical Sparse Attention (DHSA), a plug-in module for Transformers that improves efficiency by predicting token-level sparsity using chunk-level similarity, reducing latency and memory usage while maintaining dense attention performance.
 
 </div>
 </div>
@@ -196,7 +196,7 @@ TILR is a reasoning framework that detects inductive patterns in temporal data v
 
 [**Project**](https://github.com/xiongsiheng/TEILP)
 
-TEILP is a follow-up work of TILP. We convert TKGs into a temporal event knowledge graph (TEKG) which equips us to develop a differentiable random walk approach. We also introduce conditional probability density functions, associated with the logical rules involving the query interval, using which we arrive at the time prediction.
+TEILP extends TILP by converting TKGs into temporal event knowledge graphs (TEKGs) and developing a differentiable random walk approach with conditional probability density functions for time prediction based on query intervals.
 
 </div>
 </div>
@@ -211,7 +211,7 @@ TEILP is a follow-up work of TILP. We convert TKGs into a temporal event knowled
 
 [**Project**](https://github.com/xiongsiheng/TILP)
 
-TILP is the first differentiable framework for temporal logical rules learning. We introduce constrained random walk mechanism and temporal operators with temporal features modeling, e.g., recurrence, temporal order, interval between pair of relations, and duration.
+TILP is the first differentiable framework for learning temporal logical rules, using a constrained random walk mechanism and temporal operators to model key temporal features.
 
 </div>
 </div>
