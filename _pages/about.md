@@ -33,7 +33,7 @@ My research focuses on **post-training large language models for deliberate reas
 
 [**Project**](https://github.com/xiongsiheng/DeepControl)
 
-- We present DeepControl, an adaptive information-control framework that formalizes information utility, the marginal value of retrieved evidence conditioned on the agent’s current reasoning state. By regulating when to continue retrieval and how much information to expand through utility-guided continuation and granularity control, our method enables agents to learn efficient, state-aware information acquisition strategies and consistently improves reasoning performance across diverse benchmarks.
+DeepControl is an adaptive framework that optimizes information retrieval and expansion based on an agent’s reasoning state, enhancing performance across various benchmarks.
 
 </div>
 </div>
@@ -47,7 +47,7 @@ Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri
 
 [**Project**]()
 
-- We introduce PathWise, a multi-agent framework that formulates automated heuristic design as a sequential planning problem. PathWise represents the search process using an entailment graph as a stateful memory and combines a policy agent, a world model, and critic agents to guide heuristic generation through planned evolutionary actions. The framework enables structured reasoning, reuse of prior derivations, and controlled self-evolution of LLM-generated heuristics.
+PathWise is a multi-agent framework that uses stateful memory and evolutionary actions to guide automated heuristic design, enabling structured reasoning, reuse of prior derivations, and controlled self-evolution of LLM-generated heuristics.
 
 </div>
 </div>
@@ -61,7 +61,7 @@ Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/MLR)
 
-- We propose MLR (Multi-Level Reasoning), a planner–executor framework trained with iterative Step-DPO that enables more stable and robust long-horizon reasoning.
+Multi-Level Reasoning (MLR) is a lightweight planner-executor loop that improves long-horizon reasoning, using iterative Step-DPO for scalable supervision to enhance accuracy and stability.
 
 </div>
 </div>
@@ -75,7 +75,7 @@ Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/SWAP)
 
-- SWAP (Structure-Aware Planning) is a structure-aware planning framework for multi-step reasoning with LMs. At each step, given the current state, represented as a graph, and an action, the enhanced world model predicts the next state as an updated graph. The policy model is guided by this graph to propose next action.
+SWAP (Structure-Aware Planning) is a framework for multi-step reasoning with LMs, where the world model predicts the next state as a graph, guiding the policy model to propose the next action.
 
 </div>
 </div>
@@ -90,7 +90,7 @@ Longxuan Yu\*, Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Dawei Li, Zhikai C
 
 [**Project**](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)
 
-- We provide a comprehensive review of research aimed at enhancing LMs for causal reasoning. We evaluate the performance of different LMs and methods on various causal reasoning tasks, providing key findings and in-depth analysis.
+We provide a comprehensive review of research aimed at enhancing LMs for causal reasoning. We evaluate the performance of different LMs and methods on various causal reasoning tasks, providing key findings and in-depth analysis.
 
 </div>
 </div>
@@ -104,7 +104,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
 
 [**Project**](https://github.com/gblackout/Reason-in-the-Wild)
 
-- Tiger is a TactIc-Guided ReasonER designed to tackle reasoning-in-the-wild tasks by generating and refining programs. It learns from previous trajectories to iteratively improve program generation, enabling more effective reasoning (like OpenAI o1 model).
+Tiger is a TactIc-Guided ReasonER designed to tackle reasoning-in-the-wild tasks by generating and refining programs. It learns from previous trajectories to iteratively improve program generation, enabling more effective reasoning (like OpenAI o1 model).
 
 </div>
 </div>
@@ -118,7 +118,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/TG-LLM)
 
-- TG-LLM performs temporal reasoning in two steps: 1) Text-to-Temporal Graph translation: generate (relevant) temporal graph given the context and keyword (extracted from questions); 2) Temporal Graph Reasoning: perform deliberate Chain-of-Thought reasoning over the temporal graph.
+TG-LLM performs temporal reasoning in two steps: 1) Text-to-Temporal Graph translation: generate (relevant) temporal graph given the context and keyword (extracted from questions); 2) Temporal Graph Reasoning: perform deliberate Chain-of-Thought reasoning over the temporal graph.
 
 
 </div>
@@ -133,7 +133,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
 
 [**Project**](https://github.com/gblackout/LogicLLaMA)
 
-- LogicLLaMA can be used standalone or to correct previously generated rules by other models for the NL-FOL translation task.
+LogicLLaMA can be used standalone or to correct previously generated rules by other models for the NL-FOL translation task.
 
 </div>
 </div>
@@ -151,7 +151,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/DHSA)
 
-- We introduce Dynamic Hierarchical Sparse Attention (DHSA), a plug-in module integrated into each Transformer layer that enables multi-head attention to skip unimportant token pairs. The key idea is to exploit chunk-level similarity to guide token-level sparsity prediction, enhanced with dynamic chunking and length-normalized chunk representations. DHSA attains the performance of dense attention while significantly reducing both latency and memory usage.
+We introduce Dynamic Hierarchical Sparse Attention (DHSA), a plug-in module integrated into each Transformer layer that enables multi-head attention to skip unimportant token pairs. The key idea is to exploit chunk-level similarity to guide token-level sparsity prediction, enhanced with dynamic chunking and length-normalized chunk representations. DHSA attains the performance of dense attention while significantly reducing both latency and memory usage.
 
 </div>
 </div>
@@ -164,7 +164,7 @@ Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri
 
 [**Project**](https://github.com/gblackout/LM-OS)
 
-- We introduce compressor-retriever, a model-agnostic architecture designed for life-long context management. Our approach exclusively uses the base model's forward function to compress and retrieve context, ensuring end-to-end differentiability.
+We introduce compressor-retriever, a model-agnostic architecture designed for life-long context management. Our approach exclusively uses the base model's forward function to compress and retrieve context, ensuring end-to-end differentiability.
 
 </div>
 </div>
@@ -181,7 +181,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 
 [**Project**](https://github.com/gblackout/TILR)
 
-- TILR is a reasoning framework that detects inductive patterns in temporal data via neural-logic methodology. The framework aims to assist the training of modern ML models by inducing patterns for accurate grounding with fewer data.
+TILR is a reasoning framework that detects inductive patterns in temporal data via neural-logic methodology. The framework aims to assist the training of modern ML models by inducing patterns for accurate grounding with fewer data.
 
 </div>
 </div>
@@ -196,7 +196,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/TEILP)
 
-- TEILP is a follow-up work of TILP. We convert TKGs into a temporal event knowledge graph (TEKG) which equips us to develop a differentiable random walk approach. We also introduce conditional probability density functions, associated with the logical rules involving the query interval, using which we arrive at the time prediction.
+TEILP is a follow-up work of TILP. We convert TKGs into a temporal event knowledge graph (TEKG) which equips us to develop a differentiable random walk approach. We also introduce conditional probability density functions, associated with the logical rules involving the query interval, using which we arrive at the time prediction.
 
 </div>
 </div>
@@ -211,7 +211,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/TILP)
 
-- TILP is the first differentiable framework for temporal logical rules learning. We introduce constrained random walk mechanism and temporal operators with temporal features modeling, e.g., recurrence, temporal order, interval between pair of relations, and duration.
+TILP is the first differentiable framework for temporal logical rules learning. We introduce constrained random walk mechanism and temporal operators with temporal features modeling, e.g., recurrence, temporal order, interval between pair of relations, and duration.
 
 </div>
 </div>
