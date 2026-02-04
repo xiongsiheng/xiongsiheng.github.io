@@ -42,7 +42,7 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;  // Aligns the entire content to the left
+    justify-content: flex-start;  // Aligns the content to the left
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
@@ -52,35 +52,35 @@
     .paper-box-image {
         justify-content: center;
         display: flex;
-        width: 100%;
+        width: 40%;  // Adjust the image width for better alignment
         order: 2;
         img {
-            max-width: 400px;
+            max-width: 100%;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
     }
 
     .paper-box-text {
-        max-width: 100%;
-        order: 1;  // Makes sure text is aligned to the left and comes before image
-        justify-content: left;  // Aligns text to the left
-
+        max-width: 60%;  // Adjust text box width
+        order: 1;
+        justify-content: flex-start;  // Align text to the left
+        padding-left: 0;  // Removes extra padding to bring text closer to the image
     }
 
     @include breakpoint($medium) {
         .paper-box-image {
-            justify-content: left;
+            justify-content: flex-start;
             min-width: 200px;
-            max-width: 40%;
+            max-width: 35%;  // Shrinks the image a bit for better spacing
             order: 1;
         }
 
         .paper-box-text {
-            justify-content: left;
-            padding-left: 2em;
+            justify-content: flex-start;
+            padding-left: 1em;  // Slight padding adjustment if needed
             max-width: 60%;
-            order: 2;  // Keeps the text to the left
+            order: 2;
         }
     }
 }
