@@ -151,7 +151,7 @@ LogicLLaMA can be used standalone or to correct previously generated rules by ot
 
 [**Project**](https://github.com/xiongsiheng/DHSA)
 
-We introduce Dynamic Hierarchical Sparse Attention (DHSA), a plug-in module for Transformers that improves efficiency by predicting token-level sparsity using chunk-level similarity, reducing latency and memory usage while maintaining dense attention performance.
+We introduce Dynamic Hierarchical Sparse Attention (DHSA), a plug-in module for Transformers that improves efficiency by predicting token-level sparsity using chunk-level similarity, reducing latency and memory usage while maintaining performance.
 
 </div>
 </div>
