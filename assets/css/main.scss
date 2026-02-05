@@ -41,49 +41,56 @@
 @import "print";
 
 .paper-box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0;
+
+  /* ---------- Image ---------- */
+  .paper-box-image {
     display: flex;
-    justify-content: flex-start;  // Aligns the content to the left
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    justify-content: center;
+    width: 100%;
+    order: 2;
+
+    img {
+      max-width: 100%;
+      box-shadow: 3px 3px 6px #888;
+      object-fit: cover;
+    }
+  }
+
+  /* ---------- Text ---------- */
+  .paper-box-text {
+    width: 100%;
+    order: 1;
+    padding-left: 0;
+  }
+
+  /* ---------- Desktop ---------- */
+  @include breakpoint($medium) {
 
     .paper-box-image {
-        justify-content: center;
-        display: flex;
-        width: 20%;  // Adjust the image width for better alignment
-        order: 2;
-        img {
-            max-width: 100%;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
+      flex: 0 0 20%;
+      max-width: 20%;
+      min-width: 180px;
+      justify-content: flex-start;
+      order: 1;
     }
 
     .paper-box-text {
-        max-width: 80%;  // Adjust text box width
-        order: 1;
-        justify-content: flex-start;  // Align text to the left
-        padding-left: 0;  // Removes extra padding to bring text closer to the image
+      flex: 1;
+      max-width: none;
+      padding-left: 1em;
+      order: 2;
     }
-
-    @include breakpoint($medium) {
-        .paper-box-image {
-            justify-content: flex-start;
-            min-width: 200px;
-            max-width: 35%;  // Shrinks the image a bit for better spacing
-            order: 1;
-        }
-
-        .paper-box-text {
-            justify-content: flex-start;
-            padding-left: 1em;  // Slight padding adjustment if needed
-            max-width: 60%;
-            order: 2;
-        }
-    }
+  }
 }
+
 
 
 $scroll_offset : 2em;
