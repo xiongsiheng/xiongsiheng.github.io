@@ -25,7 +25,7 @@ My research focuses on **post-training large language models for deliberate reas
 
 ## Large Language Models for Reasoning and Planning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/DeepControl.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/DeepControl.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Scaling Search-Augmented Reasoning Agents via Adaptive Information Control](https://arxiv.org/pdf/2602.01672) \\
@@ -39,7 +39,7 @@ DeepControl is an adaptive framework that optimizes information retrieval and ex
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/PathWise.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/PathWise.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs](https://arxiv.org/pdf/2601.20539) \\
@@ -53,7 +53,7 @@ PathWise is a multi-agent framework that uses stateful memory and evolutionary a
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/MLR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/MLR.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://drive.google.com/file/d/1mg6N90vcH991lW86EL_Dzl2ecCcmQvNN/view?usp=sharing) \\
