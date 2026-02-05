@@ -74,11 +74,11 @@
 
   /* ---------- Desktop ---------- */
   @include breakpoint($medium) {
-    gap: 10%;   // ⭐ 中间空 10%（现在真的生效了）
+    gap: 5%;   // ⭐ 中间空 10%（现在真的生效了）
 
     .paper-box-image {
-      flex: 0 0 20%;
-      max-width: 20%;
+      flex: 0 0 25%;
+      max-width: 25%;
       min-width: 180px;
       order: 1;
     }
