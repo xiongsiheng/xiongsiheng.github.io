@@ -43,7 +43,7 @@
 .paper-box {
   display: flex;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
 
@@ -54,7 +54,7 @@
   .paper-box-image {
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     width: 100%;
     order: 2;
 
@@ -73,23 +73,25 @@
   }
 
   /* ---------- Desktop ---------- */
-  @include breakpoint($medium) {
-
-    .paper-box-image {
-      flex: 0 0 20%;
-      max-width: 20%;
-      min-width: 180px;
-      justify-content: flex-start;
-      order: 1;
-    }
-
-    .paper-box-text {
-      flex: 1;
-      max-width: none;
-      padding-left: 1em;
-      order: 2;
-    }
+@include breakpoint($medium) {
+  .paper-box {
+    gap: 10%;   // ⭐ 中间空 10%
   }
+
+  .paper-box-image {
+    flex: 0 0 20%;
+    max-width: 20%;
+    min-width: 180px;
+    order: 1;
+  }
+
+  .paper-box-text {
+    flex: 0 0 70%;
+    max-width: 70%;
+    padding-left: 0;   // 不再需要 padding
+    order: 2;
+  }
+}
 }
 
 
