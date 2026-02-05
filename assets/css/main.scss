@@ -74,7 +74,7 @@
 
   /* ---------- Desktop ---------- */
   @include breakpoint($medium) {
-    gap: 5%;   // ⭐ 中间空 10%（现在真的生效了）
+    gap: 5%;   // ⭐ 中间空
 
     .paper-box-image {
       flex: 0 0 25%;
