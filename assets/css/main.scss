@@ -1,15 +1,16 @@
 ---
 ---
+
 /*
- *  Minimal Mistakes Jekyll Theme
- *  Customized for academic paper layout
- */
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
 
-/* =========================
-   Imports
-   ========================= */
-
-@import "vendor/breakpoint/breakpoint";
+@import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -26,6 +27,7 @@
 @import "navigation";
 @import "footer";
 @import "syntax";
+
 @import "forms";
 
 @import "page";
@@ -38,108 +40,69 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-
-/* =========================
-   Paper box layout
-   ========================= */
-
 .paper-box {
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  flex-wrap: wrap;
-
-  border-bottom: 1px #efefef solid;
-  padding: 2em 0;
-
-  /* ---------- Image column ---------- */
-  .paper-box-image {
-    width: 100%;
-    order: 2;
-
     display: flex;
-    align-items: stretch;
-
-    /* ⭐ 统一图片展示比例 */
-    aspect-ratio: 4 / 3;
-    overflow: hidden;
-  }
-
-  /* ⭐ 中间容器：必须填满 */
-  .paper-box-image-inner {
-    position: relative;
-    width: 100%;
-    height: 100%;
-  }
-
-  /* ⭐ 图片真实裁剪逻辑 */
-  .paper-box-image-inner img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
-    box-shadow: 3px 3px 6px #888;
-  }
-
-  /* ---------- Text column ---------- */
-  .paper-box-text {
-    width: 100%;
-    max-width: 100%;
-    order: 1;
-  }
-
-  /* =========================
-     Desktop / tablet layout
-     ========================= */
-  @include breakpoint($medium) {
+    justify-content: flex-start;  // Aligns the content to the left
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
 
     .paper-box-image {
-      flex: 0 0 28%;     // ⭐ 学术主页黄金比例
-      max-width: 28%;
-      min-width: 200px;
-      order: 1;
+        justify-content: center;
+        display: flex;
+        width: 20%;  // Adjust the image width for better alignment
+        order: 2;
+        img {
+            max-width: 100%;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
     }
 
     .paper-box-text {
-      flex: 1;
-      max-width: none;
-      padding-left: 0;  // ⭐ 文字贴近图片
-      order: 2;
+        max-width: 80%;  // Adjust text box width
+        order: 1;
+        justify-content: flex-start;  // Align text to the left
+        padding-left: 0;  // Removes extra padding to bring text closer to the image
     }
-  }
+
+    @include breakpoint($medium) {
+        .paper-box-image {
+            justify-content: flex-start;
+            min-width: 200px;
+            max-width: 35%;  // Shrinks the image a bit for better spacing
+            order: 1;
+        }
+
+        .paper-box-text {
+            justify-content: flex-start;
+            padding-left: 1em;  // Slight padding adjustment if needed
+            max-width: 60%;
+            order: 2;
+        }
+    }
 }
 
 
-/* =========================
-   Anchor offset
-   ========================= */
-
-$scroll_offset: 2em;
-
-h1:before,
-.anchor:before {
-  content: '';
-  display: block;
-  position: relative;
-  width: 0;
-  height: $scroll_offset;
-  margin-top: -$scroll_offset;
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
+    margin-top: -$scroll_offset;
 }
-
-
-/* =========================
-   Badge style
-   ========================= */
 
 .badge {
-  position: absolute;
-  top: 0.6em;
-  left: 0.6em;
-
-  padding: 0.2em 0.8em;
-  font-size: 0.75em;
-
-  color: white;
-  background-color: #00369f;
-  z-index: 2;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
 }
