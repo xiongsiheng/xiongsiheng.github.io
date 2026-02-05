@@ -1,16 +1,18 @@
 ---
 ---
-
 /*
  *    Minimal Mistakes Jekyll Theme
  *
  *  - Michael Rose
  *  - mademistakes.com
- *  - https://twitter.com/mmistakes
  *
 */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+/* =========================
+   Imports
+   ========================= */
+
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -27,7 +29,6 @@
 @import "navigation";
 @import "footer";
 @import "syntax";
-
 @import "forms";
 
 @import "page";
@@ -40,69 +41,99 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+
+/* =========================
+   Paper box layout
+   ========================= */
+
 .paper-box {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0;
+
+  /* ---------- Image column ---------- */
+  .paper-box-image {
     display: flex;
-    justify-content: flex-start;  // Aligns the content to the left
+    justify-content: flex-start;
     align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+
+    width: 100%;
+    order: 2;
+
+    /* ⭐ 固定展示比例（统一视觉） */
+    aspect-ratio: 4 / 3;     // 可改成 16 / 9 或 1 / 1
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;     // ⭐ 等比缩放 + 裁剪
+      object-position: center;
+      box-shadow: 3px 3px 6px #888;
+    }
+  }
+
+  /* ---------- Text column ---------- */
+  .paper-box-text {
+    width: 100%;
+    max-width: 100%;
+    order: 1;
+  }
+
+  /* =========================
+     Desktop / tablet
+     ========================= */
+  @include breakpoint($medium) {
 
     .paper-box-image {
-        justify-content: center;
-        display: flex;
-        width: 40%;  // Adjust the image width for better alignment
-        order: 2;
-        img {
-            max-width: 100%;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
+      flex: 0 0 32%;          // ⭐ 图片列真实宽度
+      max-width: 32%;
+      min-width: 200px;
+      order: 1;
     }
 
     .paper-box-text {
-        max-width: 60%;  // Adjust text box width
-        order: 1;
-        justify-content: flex-start;  // Align text to the left
-        padding-left: 0;  // Removes extra padding to bring text closer to the image
+      flex: 1;               // ⭐ 占据剩余空间
+      max-width: none;       // ⭐ 解除 60% 限制
+      padding-left: 0;       // ⭐ 文字贴近图片
+      order: 2;
     }
-
-    @include breakpoint($medium) {
-        .paper-box-image {
-            justify-content: flex-start;
-            min-width: 200px;
-            max-width: 35%;  // Shrinks the image a bit for better spacing
-            order: 1;
-        }
-
-        .paper-box-text {
-            justify-content: flex-start;
-            padding-left: 1em;  // Slight padding adjustment if needed
-            max-width: 60%;
-            order: 2;
-        }
-    }
+  }
 }
 
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
+/* =========================
+   Anchor offset
+   ========================= */
+
+$scroll_offset: 2em;
+
+h1:before,
+.anchor:before {
+  content: '';
+  display: block;
+  position: relative;
+  width: 0;
+  height: $scroll_offset;
+  margin-top: -$scroll_offset;
 }
+
+
+/* =========================
+   Badge style
+   ========================= */
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+  position: absolute;
+  margin-top: 0.5em;
+  margin-left: -0.5em;
+
+  padding: 0.2em 1rem;
+  color: white;
+  background-color: #00369f;
+  font-size: 0.8em;
 }
