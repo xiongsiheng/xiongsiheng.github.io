@@ -25,7 +25,7 @@ My research focuses on **post-training large language models for deliberate reas
 
 ## Large Language Models for Reasoning and Planning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/DeepControl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">Preprint 2026</div><img src='images/DeepControl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Scaling Search-Augmented Reasoning Agents via Adaptive Information Control](https://arxiv.org/pdf/2602.01672) \\
@@ -39,7 +39,7 @@ DeepControl is an adaptive framework that optimizes information retrieval and ex
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/PathWise.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">Preprint 2026</div><img src='images/PathWise.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs](https://arxiv.org/pdf/2601.20539) \\
@@ -53,7 +53,7 @@ PathWise is a multi-agent framework that uses stateful memory and evolutionary a
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/MLR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">ICLR 2026</div><img src='images/MLR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://drive.google.com/file/d/1mg6N90vcH991lW86EL_Dzl2ecCcmQvNN/view?usp=sharing) \\
@@ -67,7 +67,7 @@ Multi-Level Reasoning (MLR) is a lightweight planner-executor loop that improves
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/SWAP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">ACL 2025</div><img src='images/SWAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model](https://aclanthology.org/2025.acl-long.1540.pdf) \\
@@ -82,7 +82,7 @@ SWAP (Structure-Aware Planning) is a framework for multi-step reasoning with LMs
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/Casual-LM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">NAACL 2025</div><img src='images/Casual-LM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CausalEval: Towards Better Causal Reasoning in Language Models](https://aclanthology.org/2025.naacl-long.622.pdf) \\
@@ -96,7 +96,7 @@ We provide a comprehensive review of research aimed at enhancing LMs for causal 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/Tiger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">EMNLP 2024</div><img src='images/Tiger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Can LLMs Reason in the Wild with Programs?](https://aclanthology.org/2024.findings-emnlp.573.pdf) \\
@@ -110,7 +110,7 @@ Tiger is a TactIc-Guided ReasonER designed to tackle reasoning-in-the-wild tasks
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/TG-LLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">ACL 2024</div><img src='images/TG-LLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Large Language Models Can Learn Temporal Reasoning](https://aclanthology.org/2024.acl-long.563.pdf) \\
@@ -125,7 +125,7 @@ TG-LLM performs temporal reasoning in two steps: 1) Text-to-Temporal Graph trans
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/LogicLLaMA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">ACL 2024</div><img src='images/LogicLLaMA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Harnessing the power of large language models for natural language to first-order logic translation](https://aclanthology.org/2024.acl-long.375.pdf) \\
@@ -142,7 +142,7 @@ LogicLLaMA can be used standalone or to correct previously generated rules by ot
 
 ## Long Context Language Modelling
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/DHSA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">NeurIPS 2025</div><img src='images/DHSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://arxiv.org/pdf/2510.24606) \\
@@ -156,7 +156,7 @@ We introduce Dynamic Hierarchical Sparse Attention (DHSA), a plug-in module for 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LM-OS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">Preprint 2024</div><img src='images/LM-OS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/pdf/2409.01495) \\
@@ -173,7 +173,7 @@ We introduce compressor-retriever, a model-agnostic architecture designed for li
 
 ## Temporal Knowledge Graph Reasoning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/TILR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">IJCAI 2024</div><img src='images/TILR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TILR: Temporal Inductive Logic Reasoning over Hypergraphs](https://www.ijcai.org/proceedings/2024/0400.pdf) \\
@@ -188,7 +188,7 @@ TILR is a reasoning framework that detects inductive patterns in temporal data v
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/TEILP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">AAAI 2024</div><img src='images/TEILP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TEILP: Time prediction over knowledge graphs via logical reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/29544) \\
@@ -203,7 +203,7 @@ TEILP extends TILP by converting TKGs into temporal event knowledge graphs (TEKG
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/TILP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-box-image-inner"><div class="badge">ICLR 2023</div><img src='images/TILP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TILP: Differentiable learning of temporal logical rules on knowledge graphs](https://openreview.net/pdf?id=_X12NmQKvX) \\
