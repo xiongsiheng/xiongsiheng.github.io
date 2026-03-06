@@ -42,12 +42,12 @@ DeepControl is an adaptive framework that optimizes information retrieval and ex
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Proj 2025</div><img src='images/DeepVerify.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evidence-Based Scientific Claim Verification](https://github.com/xiongsiheng/DeepVerify) \\
+[Evidence-Based Expert-Level Scientific Claim Verification](https://github.com/xiongsiheng/DeepVerify) \\
 **Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, Mika Okamoto, James C. Kerce, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/DeepVerify)
 
-DeepVerify empowers state-of-the-art language models with search and reasoning tools to perform evidence-based, expert-level scientific claim verification.
+DeepVerify equips state-of-the-art language models with integrated search and reasoning capabilities to verify expert-level scientific claims using evidence.
 
 </div>
 </div>
