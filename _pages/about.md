@@ -17,16 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello everyone, my name is Siheng Xiong. I am currently a final-year Ph.D. student in Machine Learning at the Georgia Institute of Technology, advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Prior to this, I earned my Bachelor's degree from Xi'an Jiaotong University and my Master's degree from Shanghai Jiao Tong University. 
+I am a final-year Ph.D. student in Machine Learning at the Georgia Institute of Technology, advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/).
 
-My research focuses on **improving long-horizon reasoning and decision-making in large language models**.
-I study post-training and system design for LLM agents, with a focus on **deliberate reasoning and planning**, as well as **scalable agent systems** that support adaptive retrieval and long-context interaction.
-The overarching goal is to make language models more reliable, controllable, and scalable for complex multi-step tasks.
+My research focuses on improving long-horizon reasoning and decision-making in large language models. I study post-training and system design for LLM agents, with a focus on deliberate reasoning and planning, as well as scalable agent systems that support adaptive retrieval and long-context interaction.
 
 
 # 🚀 Featured Projects
 
-## Language Agents
+### Long-Horizon LLM Agents
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 @ SPOT</div><img src='images/DeepControl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -36,13 +34,13 @@ The overarching goal is to make language models more reliable, controllable, and
 
 [**Project**](https://github.com/xiongsiheng/DeepControl)
 
-DeepControl is an adaptive framework that optimizes information retrieval and expansion based on an agent’s reasoning state, enhancing performance across various benchmarks.
+DeepControl is a post-training framework for search-augmented LLM agents that adaptively controls retrieval and expansion based on the agent’s reasoning state, improving long-horizon reasoning performance across diverse benchmarks.
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Proj 2025</div><img src='images/DeepVerify.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project 2025</div><img src='images/DeepVerify.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Evidence-Based Expert-Level Scientific Claim Verification](https://github.com/xiongsiheng/DeepVerify) \\
@@ -50,23 +48,7 @@ DeepControl is an adaptive framework that optimizes information retrieval and ex
 
 [**Project**](https://github.com/xiongsiheng/DeepVerify)
 
-DeepVerify equips state-of-the-art language models with integrated search and reasoning capabilities to verify expert-level scientific claims using evidence.
-
-</div>
-</div>
-
-
-## Large Language Models for Reasoning and Planning
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/PathWise.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs](https://arxiv.org/pdf/2601.20539) \\
-Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri
-
-[**Project**]()
-
-PathWise is a multi-agent framework that uses stateful memory and evolutionary actions to guide automated heuristic design, enabling structured reasoning, reuse of prior derivations, and controlled self-evolution of LLM-generated heuristics.
+DeepVerify is an agentic framework for expert-level scientific claim verification, combining search, tool use, and structured reasoning to ground decisions in retrieved evidence.
 
 </div>
 </div>
@@ -80,7 +62,7 @@ PathWise is a multi-agent framework that uses stateful memory and evolutionary a
 
 [**Project**](https://github.com/xiongsiheng/MLR)
 
-Multi-Level Reasoning (MLR) is a lightweight planner-executor loop that improves long-horizon reasoning, using iterative Step-DPO for scalable supervision to enhance accuracy and stability.
+MLR is a lightweight planner-executor framework for long-horizon reasoning, combining multi-level decomposition with scalable step-level supervision to improve both accuracy and training stability.
 
 </div>
 </div>
@@ -94,72 +76,15 @@ Multi-Level Reasoning (MLR) is a lightweight planner-executor loop that improves
 
 [**Project**](https://github.com/xiongsiheng/SWAP)
 
-SWAP (Structure-Aware Planning) is a framework for multi-step reasoning with LMs, where the world model predicts the next state as a graph, guiding the policy model to propose the next action.
+SWAP frames multi-step reasoning as structure-aware planning, where a world model predicts structured future states to guide action selection.
 
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/Casual-LM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[CausalEval: Towards Better Causal Reasoning in Language Models](https://aclanthology.org/2025.naacl-long.622.pdf) \\
-Longxuan Yu\*, Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan
-
-[**Project**](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)
-
-We provide a comprehensive review of research aimed at enhancing LMs for causal reasoning. We evaluate the performance of different LMs and methods on various causal reasoning tasks, providing key findings and in-depth analysis.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/Tiger.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Can LLMs Reason in the Wild with Programs?](https://aclanthology.org/2024.findings-emnlp.573.pdf) \\
-Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
-
-[**Project**](https://github.com/gblackout/Reason-in-the-Wild)
-
-Tiger is a TactIc-Guided ReasonER designed to tackle reasoning-in-the-wild tasks by generating and refining programs. It learns from previous trajectories to iteratively improve program generation, enabling more effective reasoning (like OpenAI o1).
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/TG-LLM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Large Language Models Can Learn Temporal Reasoning](https://aclanthology.org/2024.acl-long.563.pdf) \\
-**Siheng Xiong**, Ali Payani, Ramana Kompella, Faramarz Fekri
-
-[**Project**](https://github.com/xiongsiheng/TG-LLM)
-
-TG-LLM performs temporal reasoning in two steps: 1) Text-to-Temporal Graph translation: generate temporal graph given the context and keyword; 2) Temporal Graph Reasoning: perform deliberate CoT reasoning over the temporal graph.
-
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/LogicLLaMA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Harnessing the power of large language models for natural language to first-order logic translation](https://aclanthology.org/2024.acl-long.375.pdf) \\
-Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri
-
-[**Project**](https://github.com/gblackout/LogicLLaMA)
-
-LogicLLaMA can be used standalone or to correct previously generated rules by other models for the NL-FOL translation task.
-
-</div>
-</div>
-
-
-
-## Long Context Language Modelling
+### Long-Context and Memory Systems
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 @ ER</div><img src='images/DHSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -170,7 +95,7 @@ LogicLLaMA can be used standalone or to correct previously generated rules by ot
 
 [**Project**](https://github.com/xiongsiheng/DHSA)
 
-We introduce Dynamic Hierarchical Sparse Attention (DHSA), a plug-in module for Transformers that improves efficiency by predicting token-level sparsity using chunk-level similarity, reducing latency and memory usage while maintaining performance.
+DHSA is an efficient sparse attention framework for long-context LLM inference that reduces prefill cost and memory usage while preserving accuracy under tight device constraints.
 
 </div>
 </div>
@@ -183,61 +108,31 @@ Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri
 
 [**Project**](https://github.com/gblackout/LM-OS)
 
-We introduce compressor-retriever, a model-agnostic architecture designed for life-long context management. Our approach exclusively uses the base model's forward function to compress and retrieve context, ensuring end-to-end differentiability.
+Compressor-Retriever is a model-agnostic architecture for lifelong context management in LLM-based systems, using the base model’s forward pass to compress and retrieve memory while remaining fully differentiable.
 
 </div>
 </div>
 
-
-
-## Temporal Knowledge Graph Reasoning
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/TILR.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TILR: Temporal Inductive Logic Reasoning over Hypergraphs](https://www.ijcai.org/proceedings/2024/0400.pdf) \\
-Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
-
-[**Project**](https://github.com/gblackout/TILR)
-
-TILR is a reasoning framework that detects inductive patterns in temporal data via neural-logic methodology. The framework aims to assist the training of modern ML models by inducing patterns for accurate grounding with fewer data.
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/TEILP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TEILP: Time prediction over knowledge graphs via logical reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/29544) \\
-**Siheng Xiong**, Yuan Yang, Ali Payani, James C Kerce, Faramarz Fekri
-
-[**Project**](https://github.com/xiongsiheng/TEILP)
-
-TEILP extends TILP by converting TKGs into temporal event knowledge graphs (TEKGs) and developing a differentiable random walk approach with conditional probability density functions for time prediction based on query intervals.
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/TILP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TILP: Differentiable learning of temporal logical rules on knowledge graphs](https://openreview.net/pdf?id=_X12NmQKvX) \\
-**Siheng Xiong**, Yuan Yang, Faramarz Fekri, James Clayton Kerce
-
-[**Project**](https://github.com/xiongsiheng/TILP)
-
-TILP is the first differentiable framework for learning temporal logical rules, using a constrained random walk mechanism and temporal operators to model key temporal features.
-
-</div>
-</div>
 
 
 
 # 📝 Selected Publications
+
+## 📝 Conference Papers
+- ``ICLR 2026`` [Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://openreview.net/pdf?id=PlkzZhqBCd) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MLR)
+- ``ACS 2025`` [Deliberate Planning in Language Models with Symbolic Representation](https://arxiv.org/pdf/2505.01479) **Siheng Xiong**, Zhangding Liu, Jieyu Zhou, Yusen Su [[Repo]](https://github.com/xiongsiheng/SymPlanner)
+- ``ACL 2025 (main)`` [Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model](https://arxiv.org/pdf/2410.03136) **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/SWAP)
+- ``NAACL 2025 (main)`` [CausalEval: Towards Better Causal Reasoning in Language Models](https://arxiv.org/pdf/2410.16676) Longxuan Yu\*, Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Qingzhen Liu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan [[Repo]](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)
+- ``EMNLP 2024 (findings)`` [Can LLMs Reason in the Wild with Programs?](https://aclanthology.org/2024.findings-emnlp.573.pdf) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/Reason-in-the-Wild)
+- ``IJCAI 2024`` [Temporal Inductive Logic Reasoning over Hypergraphs](https://www.ijcai.org/proceedings/2024/0400.pdf) Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri [[Repo]](https://github.com/gblackout/TILR)
+- ``ACL 2024 (main)`` [Large Language Models Can Learn Temporal Reasoning](https://aclanthology.org/2024.acl-long.563.pdf) **Siheng Xiong**, Ali Payani, Ramana Kompella, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/TG-LLM)
+- ``ACL 2024 (main)`` [Harnessing the power of large language models for natural language to first-order logic translation](https://aclanthology.org/2024.acl-long.375.pdf) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LogicLLaMA)
+- ``AAAI 2024`` <span style="color:red">(Oral)</span> [TEILP: Time prediction over knowledge graphs via logical reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/29544) **Siheng Xiong**, Yuan Yang, Ali Payani, James C Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/TEILP)
+- ``ICLR 2023`` [TILP: Differentiable learning of temporal logical rules on knowledge graphs](https://openreview.net/pdf?id=_X12NmQKvX) **Siheng Xiong**, Yuan Yang, Faramarz Fekri, James Clayton Kerce [[Repo]](https://github.com/xiongsiheng/TILP)
+
+## 📝 Workshop Papers
+- ``ICLR 2026 @ SPOT`` [Scaling Search-Augmented Reasoning Agents via Adaptive Information Control](https://openreview.net/pdf?id=nGEWOtne5c) **Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
+- ``NeurIPS 2025 @ ER`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://arxiv.org/pdf/2510.24606) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
 
 ## 📝 Preprints
 - ``Preprint 2026`` [Scaling Search-Augmented Reasoning Agents via Adaptive Information Control](https://arxiv.org/pdf/2602.01672) **Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
@@ -246,19 +141,6 @@ TILP is the first differentiable framework for learning temporal logical rules, 
 - ``Preprint 2025`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](https://drive.google.com/file/d/1ubDI2GM3cUjeuqARLmbZsdd5uoSbss2E/view?usp=sharing) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/pdf/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 
-## 📝 Published
-- ``ICLR 2026 @ SPOT`` [Scaling Search-Augmented Reasoning Agents via Adaptive Information Control](https://openreview.net/pdf?id=nGEWOtne5c) **Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
-- ``ICLR 2026`` [Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://openreview.net/pdf?id=PlkzZhqBCd) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MLR)
-- ``NeurIPS 2025 @ ER`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://arxiv.org/pdf/2510.24606) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
-- ``ACS 2025`` [Deliberate Planning in Language Models with Symbolic Representation](https://arxiv.org/pdf/2505.01479) **Siheng Xiong**, Zhangding Liu, Jieyu Zhou, Yusen Su [[Repo]](https://github.com/xiongsiheng/SymPlanner)
-- ``ACL 2025 (main)`` [Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model](https://arxiv.org/pdf/2410.03136) **Siheng Xiong**, Ali Payani, Yuan Yang, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/SWAP)
-- ``NAACL 2025 (main)`` [CausalEval: Towards Better Causal Reasoning in Language Models](https://arxiv.org/pdf/2410.16676) Longxuan Yu\*, Delin Chen\*, **Siheng Xiong\***, Qingyang Wu, Qingzhen Liu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan [[Repo]](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)
-- ``EMNLP 2024`` [Can LLMs Reason in the Wild with Programs?](https://aclanthology.org/2024.findings-emnlp.573.pdf) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/Reason-in-the-Wild)
-- ``IJCAI 2024`` [Temporal Inductive Logic Reasoning over Hypergraphs](https://www.ijcai.org/proceedings/2024/0400.pdf) Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri [[Repo]](https://github.com/gblackout/TILR)
-- ``ACL 2024 (main)`` [Large Language Models Can Learn Temporal Reasoning](https://aclanthology.org/2024.acl-long.563.pdf) **Siheng Xiong**, Ali Payani, Ramana Kompella, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/TG-LLM)
-- ``ACL 2024 (main)`` [Harnessing the power of large language models for natural language to first-order logic translation](https://aclanthology.org/2024.acl-long.375.pdf) Yuan Yang, **Siheng Xiong**, Ali Payani, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LogicLLaMA)
-- ``AAAI 2024`` <span style="color:red">(Oral)</span> [TEILP: Time prediction over knowledge graphs via logical reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/29544) **Siheng Xiong**, Yuan Yang, Ali Payani, James C Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/TEILP)
-- ``ICLR 2023`` [TILP: Differentiable learning of temporal logical rules on knowledge graphs](https://openreview.net/pdf?id=_X12NmQKvX) **Siheng Xiong**, Yuan Yang, Faramarz Fekri, James Clayton Kerce [[Repo]](https://github.com/xiongsiheng/TILP)
 
 
 # 🎖 Honors and Awards
