@@ -19,7 +19,7 @@ redirect_from:
 
 Hello everyone, my name is Siheng Xiong. I am currently a final-year Ph.D. student in Machine Learning at the Georgia Institute of Technology, advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/). Prior to this, I earned my Bachelor's degree from Xi'an Jiaotong University and my Master's degree from Shanghai Jiao Tong University. 
 
-My PhD research focuses on **improving long-horizon reasoning and decision-making in large language models**.
+My research focuses on **improving long-horizon reasoning and decision-making in large language models**.
 I study post-training and system design for LLM agents, with a focus on **deliberate reasoning and planning**, as well as **scalable agent systems** that support adaptive retrieval and long-context interaction.
 The overarching goal is to make language models more reliable, controllable, and scalable for complex multi-step tasks.
 
