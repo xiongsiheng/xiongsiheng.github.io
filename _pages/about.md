@@ -89,7 +89,7 @@ SWAP frames multi-step reasoning as structure-aware planning, where a world mode
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/DHSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](https://drive.google.com/file/d/1ubDI2GM3cUjeuqARLmbZsdd5uoSbss2E/view?usp=sharing) \\
+[Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](https://drive.google.com/file/d/1yJ7G9ZXe8ZpyDDhJgnB38bh7cvXSh9wS/view?usp=sharing) \\
 **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho
 
 
@@ -119,7 +119,7 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 # 📝 Selected Publications
 
 ## 📝 Conference Papers
-- ``ICML 2026`` <span style="color:red">(Spotlight)</span> [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](https://drive.google.com/file/d/1ubDI2GM3cUjeuqARLmbZsdd5uoSbss2E/view?usp=sharing) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
+- ``ICML 2026`` <span style="color:red">(Spotlight)</span> [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](https://drive.google.com/file/d/1yJ7G9ZXe8ZpyDDhJgnB38bh7cvXSh9wS/view?usp=sharing) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
 - ``ICML 2026`` [Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs](https://arxiv.org/pdf/2601.20539) Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri [[Repo]]()
 - ``ICLR 2026`` [Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://openreview.net/pdf?id=PlkzZhqBCd) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MLR)
 - ``ACS 2025`` [Deliberate Planning in Language Models with Symbolic Representation](https://openreview.net/pdf?id=uJHpaZlIvT) **Siheng Xiong**, Zhangding Liu, Jieyu Zhou, Yusen Su [[Repo]](https://github.com/xiongsiheng/SymPlanner)
