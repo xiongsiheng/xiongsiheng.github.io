@@ -144,6 +144,7 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 
 
 # 🎖 Honors and Awards
+- Georgia Tech CSIP Outstanding Research Award
 - China National Scholarship (Top 1% Rank)
 - China UHV Scholarship (Top 1% Rank)
 - Kaggle Santander Value Prediction Challenge, Silver Medal (Top 3.4% Rank)
