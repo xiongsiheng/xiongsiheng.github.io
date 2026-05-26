@@ -30,7 +30,7 @@ My research focuses on improving long-horizon reasoning and decision-making in l
 <div class='paper-box-text' markdown="1">
 
 [Scaling Search-Augmented Reasoning Agents via Adaptive Information Control](https://openreview.net/pdf?id=nGEWOtne5c) \\
-**Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, James C. Kerce, Faramarz Fekri
+**Siheng Xiong**, Oguzhan Gungordu, James C. Kerce, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/DeepControl)
 
@@ -133,11 +133,11 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 - ``ICLR 2023`` [TILP: Differentiable learning of temporal logical rules on knowledge graphs](https://openreview.net/pdf?id=_X12NmQKvX) **Siheng Xiong**, Yuan Yang, Faramarz Fekri, James Clayton Kerce [[Repo]](https://github.com/xiongsiheng/TILP)
 
 ## 📝 Workshop Papers
-- ``ICLR 2026 @ SPOT`` [Scaling Search-Augmented Reasoning Agents via Adaptive Information Control](https://openreview.net/pdf?id=nGEWOtne5c) **Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
+- ``ICLR 2026 @ SPOT`` [Scaling Search-Augmented Reasoning Agents via Adaptive Information Control](https://openreview.net/pdf?id=nGEWOtne5c) **Siheng Xiong**, Oguzhan Gungordu, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
 - ``NeurIPS 2025 @ ER`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://openreview.net/pdf?id=pvrHkHRVx3) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
 
 ## 📝 Preprints
-- ``Preprint 2026`` [Adaptive Information Control for Search-Augmented LLM Reasoning](https://arxiv.org/pdf/2602.01672) **Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
+- ``Preprint 2026`` [Adaptive Information Control for Search-Augmented LLM Reasoning](https://arxiv.org/pdf/2602.01672) **Siheng Xiong**, Oguzhan Gungordu, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
 - ``Preprint 2025`` [Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation](https://arxiv.org/pdf/2510.11620) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MPPA)
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/pdf/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 
