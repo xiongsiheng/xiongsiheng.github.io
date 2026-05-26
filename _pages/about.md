@@ -44,7 +44,7 @@ DeepControl is a post-training framework for search-augmented LLM agents that ad
 <div class='paper-box-text' markdown="1">
 
 [Evidence-Based Expert-Level Scientific Claim Verification](https://github.com/xiongsiheng/DeepVerify) \\
-**Siheng Xiong**, Oguzhan Gungordu, Blair Johnson, Mika Okamoto, James C. Kerce, Faramarz Fekri
+**Siheng Xiong**, Oguzhan Gungordu, James C. Kerce, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/DeepVerify)
 
