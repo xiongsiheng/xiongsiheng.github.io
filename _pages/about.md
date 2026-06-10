@@ -165,4 +165,4 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 # 📄 Services
 - Program Committee for *AAAI*
 - Conference Reviewer for *NeurIPS, ICML (Gold Reviewer), ICLR, ACL, EMNLP, NAACL, EACL, KDD, AAAI, ECML*
-- Journal Reviewer for *ACM TIST*
+- Journal Reviewer for *TMLR*, *ACM TIST*
