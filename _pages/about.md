@@ -29,7 +29,7 @@ My research focuses on improving long-horizon reasoning and decision-making in l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 @ SPOT</div><img src='images/DeepControl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Scaling Search-Augmented Reasoning Agents via Adaptive Information Control](https://openreview.net/pdf?id=nGEWOtne5c) \\
+[Adaptive Information Control for Search-Augmented LLM Reasoning](https://arxiv.org/pdf/2602.01672) \\
 **Siheng Xiong**, Oguzhan Gungordu, James C. Kerce, Faramarz Fekri
 
 [**Project**](https://github.com/xiongsiheng/DeepControl)
@@ -89,7 +89,7 @@ SWAP frames multi-step reasoning as structure-aware planning, where a world mode
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/DHSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](https://drive.google.com/file/d/1yJ7G9ZXe8ZpyDDhJgnB38bh7cvXSh9wS/view?usp=sharing) \\
+[Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](https://arxiv.org/pdf/2510.24606) \\
 **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho
 
 
@@ -119,7 +119,7 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 # 📝 Selected Publications
 
 ## 📝 Conference Papers
-- ``ICML 2026`` <span style="color:red">(Spotlight)</span> [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](https://drive.google.com/file/d/1yJ7G9ZXe8ZpyDDhJgnB38bh7cvXSh9wS/view?usp=sharing) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
+- ``ICML 2026`` <span style="color:red">(Spotlight)</span> [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](https://arxiv.org/pdf/2510.24606) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
 - ``ICML 2026`` [Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs](https://arxiv.org/pdf/2601.20539) Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri [[Repo]](https://github.com/oguzhangungordu/PathWise)
 - ``ICLR 2026`` [Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://openreview.net/pdf?id=PlkzZhqBCd) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MLR)
 - ``ACS 2025`` [Deliberate Planning in Language Models with Symbolic Representation](https://openreview.net/pdf?id=uJHpaZlIvT) **Siheng Xiong**, Zhangding Liu, Jieyu Zhou, Yusen Su [[Repo]](https://github.com/xiongsiheng/SymPlanner)
