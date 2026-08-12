@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siheng Xiong"
-description              : "Georgia Institute of Technology"
+description              : "Amazon Web Services"
 repository               : "xiongsiheng/xiongsiheng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siheng Xiong"
   avatar           : "images/avatar.jpg"
-  bio              : "Ph.D. candidate in ML"
-  location         : "Atlanta, Georgia"
+  bio              : "Applied Scientist"
+  location         : "Santa Clara, California"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PbNzCQoAAAAJ"
-  email            : "sxiong45@gatech.edu"
+  email            : "sihengxiong45@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

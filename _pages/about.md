@@ -17,16 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Ph.D. student in Machine Learning at the Georgia Institute of Technology, advised by [Prof. Faramarz Fekri](https://fekri.ece.gatech.edu/).
+I am an Applied Scientist at AWS, working on agentic reinforcement learning. I received my Ph.D. in Machine Learning from the Georgia Institute of Technology.
 
-My research focuses on improving long-horizon reasoning and decision-making in large language models. I study post-training and system design for LLM agents, with a focus on deliberate reasoning and planning, as well as scalable agent systems that support adaptive retrieval and long-context interaction.
+My research focuses on improving long-horizon reasoning and decision-making in large language models. I study post-training and system design for LLM agents, with an emphasis on deliberate reasoning and planning, adaptive retrieval, long-context modeling, and scalable agentic systems.
 
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### Long-Horizon LLM Agents
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 @ SPOT</div><img src='images/DeepControl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DIVE: Unlocking Self-Improvement in Frozen Language Models Through Diversity-Driven Skill Evolution]() \\
+**Siheng Xiong**, Ali Payani, Oguzhan Gungordu, Faramarz Fekri
+
+[**Project**]()
+
+DIVE enables frozen LLMs to improve from experience without parameter updates by evolving reusable natural-language skills. By maintaining diverse skill populations and selecting complementary skills, DIVE achieves strong and transferable self-improvement across reasoning tasks and model families.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/DeepControl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Information Control for Search-Augmented LLM Reasoning](https://arxiv.org/pdf/2602.01672) \\
@@ -116,9 +130,9 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 
 
 
-# 📝 Selected Publications
+# Selected Publications
 
-## 📝 Conference Papers
+## Conference Papers
 - ``ICML 2026`` <span style="color:red">(Spotlight)</span> [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](https://arxiv.org/pdf/2510.24606) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
 - ``ICML 2026`` [Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs](https://arxiv.org/pdf/2601.20539) Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri [[Repo]](https://github.com/oguzhangungordu/PathWise)
 - ``ICLR 2026`` [Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://openreview.net/pdf?id=PlkzZhqBCd) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MLR)
@@ -132,37 +146,36 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 - ``AAAI 2024`` <span style="color:red">(Oral)</span> [TEILP: Time prediction over knowledge graphs via logical reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/29544) **Siheng Xiong**, Yuan Yang, Ali Payani, James C Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/TEILP)
 - ``ICLR 2023`` [TILP: Differentiable learning of temporal logical rules on knowledge graphs](https://openreview.net/pdf?id=_X12NmQKvX) **Siheng Xiong**, Yuan Yang, Faramarz Fekri, James Clayton Kerce [[Repo]](https://github.com/xiongsiheng/TILP)
 
-## 📝 Workshop Papers
+## Workshop Papers
 - ``ICLR 2026 @ SPOT`` [Scaling Search-Augmented Reasoning Agents via Adaptive Information Control](https://openreview.net/pdf?id=nGEWOtne5c) **Siheng Xiong**, Oguzhan Gungordu, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
 - ``NeurIPS 2025 @ ER`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://openreview.net/pdf?id=pvrHkHRVx3) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
 
-## 📝 Preprints
+## Preprints
 - ``Preprint 2026`` [Adaptive Information Control for Search-Augmented LLM Reasoning](https://arxiv.org/pdf/2602.01672) **Siheng Xiong**, Oguzhan Gungordu, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
 - ``Preprint 2025`` [Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation](https://arxiv.org/pdf/2510.11620) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MPPA)
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/pdf/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 
 
+# Experience
+- *2026.07 - Present*, Applied Scientist, Amazon Web Services, Santa Clara, California
+- *2021.09 - 2026.06*, Graduate Research Assistant, Georgia Institute of Technology, Atlanta, Georgia
+- *2025.05 - 2025.08*, Applied Research Intern, Google, Sunnyvale, California
+- *2023.09 - 2024.04*, Research Intern, Cisco Research, San Jose, California
+- *2020.05 - 2021.01*, Research Assistant, Rutgers University (Mentor: [Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)), New Brunswick, New Jersey
 
-# 🎖 Honors and Awards
-- Georgia Tech CSIP Outstanding Research Award
-- China National Scholarship (Top 1% Rank)
-- China UHV Scholarship (Top 1% Rank)
-- Kaggle Santander Value Prediction Challenge, Silver Medal (Top 3.4% Rank)
 
-
-# 📖 Education
-- Georgia Institute of Technology, Ph.D. in Machine Learning
+# Education
+- Georgia Institute of Technology, Ph.D. in Machine Learning (Advisor: [Faramarz Fekri](https://fekri.ece.gatech.edu/))
 - Shanghai Jiao Tong University, M.S. in Electrical and Computer Engineering
 - Xi'an Jiaotong University, B.S. in Electrical and Computer Engineering
 
 
-# 💻 Experience
-- *2025.05 - 2025.08*, Applied Research Intern, Google, Sunnyvale, California
-- *2023.09 - 2024.04*, Research Intern, Cisco Research, San Jose, California
-- *2020.05 - 2021.01*, Research Student Assistant, Rutgers University (Mentor: [Dimitris N. Metaxas](https://scholar.google.com/citations?user=a7VNhCIAAAAJ)), New Brunswick, New Jersey
+# Honors and Awards
+- Georgia Tech CSIP Outstanding Research Award
+- China National Scholarship (Top 1% Rank)
 
 
-# 📄 Services
-- Program Committee for *AAAI*
-- Conference Reviewer for *NeurIPS, ICML (Gold Reviewer), ICLR, ACL, EMNLP, NAACL, EACL, KDD, AAAI, ECML*
+# Services
+- Program Committee for *AAAI, CIKM*
+- Conference Reviewer for *NeurIPS, ICML (Gold Reviewer), ICLR, ACL, EMNLP, NAACL, EACL, KDD, AAAI, CIKM, ECML*
 - Journal Reviewer for *TMLR*, *ACM TIST*
