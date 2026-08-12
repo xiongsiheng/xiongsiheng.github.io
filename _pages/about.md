@@ -26,7 +26,7 @@ My research focuses on improving long-horizon reasoning and decision-making in l
 
 ### Long-Horizon LLM Agents
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/DIVE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DIVE: Unlocking Self-Improvement in Frozen Language Models Through Diversity-Driven Skill Evolution]() \\
