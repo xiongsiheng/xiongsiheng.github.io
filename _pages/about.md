@@ -29,7 +29,7 @@ My research focuses on improving long-horizon reasoning and decision-making in l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/DIVE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DIVE: Unlocking Self-Improvement in Frozen Language Models Through Diversity-Driven Skill Evolution]() \\
+[DIVE: Unlocking Self-Improvement in Frozen Language Models Through Diversity-Driven Skill Evolution](https://arxiv.org/pdf/2608.12486) \\
 **Siheng Xiong**, Ali Payani, Oguzhan Gungordu, Faramarz Fekri
 
 [**Project**]()
@@ -49,20 +49,6 @@ DIVE enables frozen LLMs to improve from experience without parameter updates by
 [**Project**](https://github.com/xiongsiheng/DeepControl)
 
 DeepControl is a post-training framework for search-augmented LLM agents that adaptively controls retrieval and expansion based on the agent’s reasoning state, improving long-horizon reasoning performance across diverse benchmarks.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project 2025</div><img src='images/DeepVerify.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Evidence-Based Expert-Level Scientific Claim Verification](https://github.com/xiongsiheng/DeepVerify) \\
-**Siheng Xiong**, Oguzhan Gungordu, James C. Kerce, Faramarz Fekri
-
-[**Project**](https://github.com/xiongsiheng/DeepVerify)
-
-DeepVerify is an agentic framework for expert-level scientific claim verification, combining search, tool use, and structured reasoning to ground decisions in retrieved evidence.
 
 </div>
 </div>
@@ -151,6 +137,8 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 - ``NeurIPS 2025 @ ER`` [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](https://openreview.net/pdf?id=pvrHkHRVx3) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
 
 ## Preprints
+- ``Preprint 2026`` [DIVE: Unlocking Self-Improvement in Frozen Language Models Through Diversity-Driven Skill Evolution](https://arxiv.org/pdf/2608.12486) **Siheng Xiong**, Ali Payani, Oguzhan Gungordu, Faramarz Fekri [[Repo]]()
+- ``Preprint 2026`` [MOSAIC: Adversarial Co-evolution of Specialist Heuristics and Problem Instances for LLM-based Automated Heuristic Design](https://arxiv.org/pdf/2608.07544) Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri [[Repo]]()
 - ``Preprint 2026`` [Adaptive Information Control for Search-Augmented LLM Reasoning](https://arxiv.org/pdf/2602.01672) **Siheng Xiong**, Oguzhan Gungordu, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
 - ``Preprint 2025`` [Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation](https://arxiv.org/pdf/2510.11620) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MPPA)
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/pdf/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
