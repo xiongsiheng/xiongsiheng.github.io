@@ -209,9 +209,12 @@
     margin-right: auto;
 
     @include breakpoint($medium) {
+      display: flex;
+      column-gap: 4rem;
+
       a {
-        margin-left: 2rem;
-        margin-right: 2rem;
+        margin-left: 0;
+        margin-right: 0;
       }
     }
 
