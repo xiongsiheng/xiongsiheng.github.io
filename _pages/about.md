@@ -40,7 +40,7 @@ DIVE enables frozen LLMs to improve from experience without parameter updates by
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/DeepControl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/DeepControl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Information Control for Search-Augmented LLM Reasoning](https://arxiv.org/pdf/2602.01672) \\
@@ -119,6 +119,7 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 # Selected Publications
 
 ## Conference Papers
+- ``EMNLP 2026`` [Adaptive Information Control for Search-Augmented LLM Reasoning](https://arxiv.org/pdf/2602.01672) **Siheng Xiong**, Oguzhan Gungordu, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
 - ``ICML 2026`` <span style="color:red">(Spotlight)</span> [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](https://arxiv.org/pdf/2510.24606) **Siheng Xiong**, Joe Zou, Faramarz Fekri, Yae Jee Cho [[Repo]](https://github.com/xiongsiheng/DHSA)
 - ``ICML 2026`` [Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs](https://arxiv.org/pdf/2601.20539) Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri [[Repo]](https://github.com/oguzhangungordu/PathWise)
 - ``ICLR 2026`` [Enhancing Language Model Reasoning with Structured Multi-Level Modeling](https://openreview.net/pdf?id=PlkzZhqBCd) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MLR)
@@ -139,7 +140,6 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 ## Preprints
 - ``Preprint 2026`` [DIVE: Unlocking Self-Improvement in Frozen Language Models Through Diversity-Driven Skill Evolution](https://arxiv.org/pdf/2608.12486) **Siheng Xiong**, Ali Payani, Oguzhan Gungordu, Faramarz Fekri [[Repo]]()
 - ``Preprint 2026`` [MOSAIC: Adversarial Co-evolution of Specialist Heuristics and Problem Instances for LLM-based Automated Heuristic Design](https://arxiv.org/pdf/2608.07544) Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri [[Repo]]()
-- ``Preprint 2026`` [Adaptive Information Control for Search-Augmented LLM Reasoning](https://arxiv.org/pdf/2602.01672) **Siheng Xiong**, Oguzhan Gungordu, James C. Kerce, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/DeepControl)
 - ``Preprint 2025`` [Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation](https://arxiv.org/pdf/2510.11620) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MPPA)
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/pdf/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 
