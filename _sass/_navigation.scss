@@ -210,7 +210,7 @@
 
     @include breakpoint($medium) {
       display: flex;
-      column-gap: 4rem;
+      column-gap: 6rem;
 
       a {
         margin-left: 0;
