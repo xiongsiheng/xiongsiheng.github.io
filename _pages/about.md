@@ -22,6 +22,16 @@ I am an Applied Scientist at AWS, working on agentic reinforcement learning. I r
 My research focuses on improving long-horizon reasoning and decision-making in large language models. I study post-training and system design for LLM agents, with an emphasis on deliberate reasoning and planning, adaptive retrieval, long-context modeling, and scalable agentic systems.
 
 
+# News
+
+- **2026.08** One paper accepted to EMNLP 2026.
+- **2026.07** I will join AWS as an Applied Scientist.
+- **2026.06** I received the Spring 2026 CSIP Outstanding Research Award at Georgia Tech.
+- **2026.03** Two papers accepted to ICML 2026, including one Spotlight.
+- **2026.03** One paer accepted to ICLR 2026 Workshop on Scaling Post-training for LLMs.
+- **2026.02** One paer accepted to ICLR 2026.
+- **2025.12** I will be attending Neurips 2025. See you at San Diego.
+
 # Featured Projects
 
 ### Long-Horizon LLM Agents
