@@ -150,6 +150,7 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 
 ## Preprints
 - ``Preprint 2026`` [DIVE: Unlocking Self-Improvement in Frozen Language Models Through Diversity-Driven Skill Evolution](https://arxiv.org/pdf/2608.12486) **Siheng Xiong**, Ali Payani, Oguzhan Gungordu, Faramarz Fekri [[Repo]]()
+- ``Preprint 2026`` [Evaluator-in-the-Loop Monte Carlo Tree Search via LLM Agents for Motif Scaffolding in Protein Design](https://arxiv.org/pdf/2610.02924) Haotian Hu, Oguzhan Gungordo, **Siheng Xiong**, Faramarz Fekri [[Repo]]()
 - ``Preprint 2026`` [MOSAIC: Adversarial Co-evolution of Specialist Heuristics and Problem Instances for LLM-based Automated Heuristic Design](https://arxiv.org/pdf/2608.07544) Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri [[Repo]]()
 - ``Preprint 2025`` [Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation](https://arxiv.org/pdf/2510.11620) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MPPA)
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/pdf/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
@@ -176,5 +177,5 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 
 # Services
 - Program Committee for *AAAI, CIKM*
-- Conference Reviewer for *NeurIPS, ICML (Gold Reviewer), ICLR, ACL, EMNLP, NAACL, EACL, KDD, AAAI, CIKM, ECML*
+- Conference Reviewer for *NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, EACL, KDD, AAAI, CIKM, ECML*
 - Journal Reviewer for *TMLR*, *ACM TIST*
