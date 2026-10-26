@@ -179,5 +179,5 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 # Services
 - Area Chair for *ACL Rolling Review*
 - Program Committee for *AAAI, IJCAI, CIKM*
-- Conference Reviewer for *NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, EACL, KDD, AAAI, IJCAI, CIKM, ECML*
+- Conference Reviewer for *NeurIPS, ICML, ICLR, ACL, EMNLP, KDD, WWW, AAAI, IJCAI, NAACL, EACL, CIKM, ECML*
 - Journal Reviewer for *TMLR*, *ACM TIST*
