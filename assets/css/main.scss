@@ -41,8 +41,8 @@
 @import "print";
 
 .news-scroll {
-  // Five compact news rows are visible; older entries remain accessible by scrolling.
-  max-height: 12.5rem;
+  // Five single-line entries at 1.5em line height plus 0.2em padding each.
+  max-height: 8.5em;
   overflow-y: auto;
   overscroll-behavior: contain;
   padding-right: 0.75rem;
@@ -54,8 +54,9 @@
   }
 
   li {
-    min-height: 2.5rem;
-    padding: 0.35rem 0;
+    margin: 0;
+    line-height: 1.5;
+    padding: 0.1em 0;
   }
 }
 
