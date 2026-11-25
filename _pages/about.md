@@ -26,8 +26,10 @@ My research focuses on improving long-horizon reasoning and decision-making in l
 
 <div class="news-scroll" markdown="1">
 
+- **2026.11**  We released [SWE-Cloud](https://awslabs.github.io/swe-cloud/site/), a benchmark for coding agents on cloud engineering tasks.
 - **2026.11**  I defended my Ph.D. dissertation ([slides](files/phd_slides.pdf)).
-- **2026.08**  One paper accepted to EMNLP 2026.
+- **2026.10**  I was invited to serve as an Area Chair for ACL Rolling Review (ARR).
+- **2026.08**  Two papers accepted to EMNLP 2026.
 - **2026.07**  I joined AWS as an Applied Scientist.
 - **2026.06**  I received the Spring 2026 CSIP Outstanding Research Award at Georgia Tech.
 - **2026.03**  Two papers accepted to ICML 2026, including one Spotlight.
@@ -182,7 +184,7 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 
 
 # Services
-- Area Chair for *ACL Rolling Review*
+- Area Chair for *ACL Rolling Review (ARR)*
 - Program Committee for *AAAI, IJCAI, CIKM*
 - Conference Reviewer for *NeurIPS, ICML, ICLR, ACL, EMNLP, KDD, WWW, AAAI, IJCAI, NAACL, EACL, CIKM, ECML*
 - Journal Reviewer for *TMLR*, *ACM TIST*
