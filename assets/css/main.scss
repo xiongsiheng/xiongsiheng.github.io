@@ -40,6 +40,25 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.news-scroll {
+  // Five compact news rows are visible; older entries remain accessible by scrolling.
+  max-height: 12.5rem;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding-right: 0.75rem;
+  scrollbar-gutter: stable;
+
+  ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  li {
+    min-height: 2.5rem;
+    padding: 0.35rem 0;
+  }
+}
+
 .paper-box {
   display: flex;
   justify-content: flex-start;
