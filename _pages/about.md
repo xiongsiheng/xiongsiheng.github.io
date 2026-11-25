@@ -153,7 +153,7 @@ Compressor-Retriever is a model-agnostic architecture for lifelong context manag
 - ``Preprint 2026`` [EPOCH: Coverage-Aware Evolution with Experiential Preference Optimization for LLM-based Automated Heuristic Design](https://arxiv.org/pdf/2610.17379) Oguzhan Gungordo, Ayse Tursucular, **Siheng Xiong**, Faramarz Fekri [[Repo]]()
 - ``Preprint 2026`` [Evaluator-in-the-Loop Monte Carlo Tree Search via LLM Agents for Motif Scaffolding in Protein Design](https://arxiv.org/pdf/2610.02924) Haotian Hu, Oguzhan Gungordo, **Siheng Xiong**, Faramarz Fekri [[Repo]]()
 - ``Preprint 2026`` [MOSAIC: Adversarial Co-evolution of Specialist Heuristics and Problem Instances for LLM-based Automated Heuristic Design](https://arxiv.org/pdf/2608.07544) Oguzhan Gungordu, **Siheng Xiong**, Faramarz Fekri [[Repo]]()
-- ``Preprint 2025`` [Enhancing Long Chain-of-Thought Reasoning with Multi-Path Planning with Aggregation](https://arxiv.org/pdf/2510.11620) **Siheng Xiong**, Ali Payani, Faramarz Fekri  [[Repo]](https://github.com/xiongsiheng/MPPA)
+- ``Preprint 2025`` [Advancing the Pareto Frontier of Test-Time Scaling with Multi-Path Plan Aggregation](https://arxiv.org/pdf/2510.11620) **Siheng Xiong**, Ali Payani, Faramarz Fekri [[Repo]](https://github.com/xiongsiheng/MPPA)
 - ``Preprint 2024`` [The Compressor-Retriever Architecture for Language Model OS](https://arxiv.org/pdf/2409.01495) Yuan Yang, **Siheng Xiong**, Ehsan Shareghi, Faramarz Fekri [[Repo]](https://github.com/gblackout/LM-OS)
 
 
